@@ -3,4 +3,5 @@ Feature: Check whether admin login page is working.
 
     Given Navigate to Login Page
     When Enter the admin credential on Username field and password
-    Then Validate Dashborad is displayed
+    And Validate Dashborad is displayed
+    Then LogOut Admin Page
