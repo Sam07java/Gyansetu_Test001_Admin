@@ -1,0 +1,1740 @@
+11:39:20.327 [main]INFO  factory.BaseClass - browser initialized
+11:39:20.333 [main]INFO  factory.BaseClass - get properties file from file directory
+11:39:23.698 [main]INFO  factory.BaseClass - click on HomePage button
+11:39:24.023 [main]INFO  factory.BaseClass - get data from properties file to Admin login Page
+11:39:25.248 [main]INFO  factory.BaseClass - click on signbutton
+11:39:34.948 [main]INFO  factory.BaseClass - Click on institution button
+12:07:59.255 [main]INFO  factory.BaseClass - browser initialized
+12:07:59.267 [main]INFO  factory.BaseClass - get properties file from file directory
+12:08:08.937 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:08:09.269 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:08:09.957 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:08:10.303 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:08:15.209 [main]INFO  factory.BaseClass - Click on institution button
+12:43:26.019 [main]INFO  factory.BaseClass - browser initialized
+12:43:26.027 [main]INFO  factory.BaseClass - get properties file from file directory
+12:43:30.793 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:43:31.088 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:43:31.631 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:43:32.001 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:43:32.405 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:43:32.413 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:43:36.685 [main]INFO  factory.BaseClass - Clicked on institution button
+12:43:36.687 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+12:43:37.812 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+12:43:38.142 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+12:43:38.283 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+12:43:50.178 [main]INFO  factory.BaseClass - Click on Save button institution.
+12:43:50.421 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+12:50:44.071 [main]INFO  factory.BaseClass - browser initialized
+12:50:44.080 [main]INFO  factory.BaseClass - get properties file from file directory
+12:50:47.611 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:50:47.971 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:50:48.677 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:50:49.187 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:50:49.612 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:50:49.620 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:50:53.458 [main]INFO  factory.BaseClass - Clicked on institution button
+12:50:53.461 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+12:50:54.692 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+12:50:55.148 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+12:50:55.306 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+12:51:04.830 [main]INFO  factory.BaseClass - Click on Save button institution.
+12:51:05.104 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+12:51:17.998 [main]INFO  factory.BaseClass - browser initialized
+12:51:18.002 [main]INFO  factory.BaseClass - get properties file from file directory
+12:51:20.314 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:51:20.591 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:51:21.210 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:51:21.565 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:51:21.976 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:51:21.976 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:51:25.671 [main]INFO  factory.BaseClass - Clicked on institution button
+12:51:25.673 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:51:25.991 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:26.955 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:26.980 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:51:33.965 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:51:37.575 [main]INFO  factory.BaseClass - browser initialized
+12:51:37.575 [main]INFO  factory.BaseClass - get properties file from file directory
+12:51:40.124 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:51:40.406 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:51:41.305 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:51:42.086 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:51:42.984 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:51:42.984 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:51:48.398 [main]INFO  factory.BaseClass - Clicked on institution button
+12:51:48.398 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:51:49.168 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:51.437 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:51.513 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:51:58.613 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:52:02.009 [main]INFO  factory.BaseClass - browser initialized
+12:52:02.009 [main]INFO  factory.BaseClass - get properties file from file directory
+12:52:04.473 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:52:04.755 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:52:05.533 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:52:05.927 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:52:06.328 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:52:06.336 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:52:10.765 [main]INFO  factory.BaseClass - Clicked on institution button
+12:52:10.765 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:52:11.096 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:52:11.646 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:52:12.143 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:52:19.136 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+14:09:51.842 [main]INFO  factory.BaseClass - browser initialized
+14:09:51.849 [main]INFO  factory.BaseClass - get properties file from file directory
+14:10:01.952 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:10:02.285 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:10:03.055 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:10:03.488 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:10:03.830 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:10:03.838 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:10:10.349 [main]INFO  factory.BaseClass - Clicked on institution button
+14:10:10.353 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+14:10:11.555 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+14:10:12.408 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+14:10:12.503 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+14:10:20.680 [main]INFO  factory.BaseClass - Click on Save button institution.
+14:10:20.905 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+14:10:27.124 [main]INFO  factory.BaseClass - Alert not displayed, validating textfields.
+14:10:41.193 [main]INFO  factory.BaseClass - browser initialized
+14:10:41.193 [main]INFO  factory.BaseClass - get properties file from file directory
+14:11:01.508 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:11:01.788 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:11:02.704 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:11:03.183 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:11:03.569 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:11:03.574 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:11:16.856 [main]INFO  factory.BaseClass - browser initialized
+14:11:16.859 [main]INFO  factory.BaseClass - get properties file from file directory
+14:11:39.800 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:11:40.047 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:11:40.570 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:11:40.915 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:11:41.277 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:11:41.279 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:11:50.293 [main]INFO  factory.BaseClass - browser initialized
+14:11:50.303 [main]INFO  factory.BaseClass - get properties file from file directory
+14:11:58.815 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:11:59.096 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:11:59.663 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:11:59.989 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:12:00.425 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:12:00.429 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:12:07.393 [main]INFO  factory.BaseClass - Clicked on institution button
+14:12:07.393 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+14:12:07.737 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+14:12:08.636 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+14:12:08.694 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+14:12:14.514 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+09:57:37.291 [main]INFO  factory.BaseClass - browser initialized
+09:57:37.291 [main]INFO  factory.BaseClass - get properties file from file directory
+09:57:40.162 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+09:57:40.525 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+09:57:41.082 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+09:57:41.378 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+09:57:41.748 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+09:57:41.759 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+09:57:53.469 [main]INFO  factory.BaseClass - browser initialized
+09:57:53.473 [main]INFO  factory.BaseClass - get properties file from file directory
+09:57:57.287 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+09:57:57.642 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+09:57:58.229 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+09:57:58.563 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+09:57:58.929 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+09:57:58.929 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+09:58:14.206 [main]INFO  factory.BaseClass - browser initialized
+09:58:14.211 [main]INFO  factory.BaseClass - get properties file from file directory
+09:58:18.082 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+09:58:18.436 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+09:58:19.208 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+09:58:19.592 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+09:58:19.967 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+09:58:19.967 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+09:59:25.688 [main]INFO  factory.BaseClass - browser initialized
+09:59:25.688 [main]INFO  factory.BaseClass - get properties file from file directory
+09:59:40.173 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+09:59:40.492 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+09:59:41.142 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+09:59:41.539 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+09:59:41.884 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+09:59:41.889 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+09:59:49.260 [main]INFO  factory.BaseClass - Clicked on institution button
+09:59:49.260 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+09:59:50.382 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+09:59:51.100 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+09:59:51.196 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+09:59:59.245 [main]INFO  factory.BaseClass - Click on Save button institution.
+09:59:59.428 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+10:00:12.887 [main]INFO  factory.BaseClass - browser initialized
+10:00:12.887 [main]INFO  factory.BaseClass - get properties file from file directory
+10:00:17.086 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:00:17.394 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:00:18.092 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:00:18.495 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:00:18.855 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:00:18.855 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:00:26.769 [main]INFO  factory.BaseClass - Clicked on institution button
+10:00:26.771 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:00:27.339 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:00:28.775 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:00:28.805 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:00:37.693 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:00:50.917 [main]INFO  factory.BaseClass - browser initialized
+10:00:50.917 [main]INFO  factory.BaseClass - get properties file from file directory
+10:01:03.438 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:01:03.700 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:01:04.313 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:01:04.659 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:01:05.039 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:01:05.039 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:01:12.502 [main]INFO  factory.BaseClass - Clicked on institution button
+10:01:12.502 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:01:12.830 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:01:13.646 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:01:13.674 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:01:20.688 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:01:33.771 [main]INFO  factory.BaseClass - browser initialized
+10:01:33.771 [main]INFO  factory.BaseClass - get properties file from file directory
+10:01:36.254 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:01:36.669 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:01:37.214 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:01:37.507 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:01:37.872 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:01:37.872 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:01:45.167 [main]INFO  factory.BaseClass - Clicked on institution button
+10:01:45.167 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:01:45.510 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:01:45.883 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:01:46.005 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:01:53.259 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:07:38.489 [main]INFO  factory.BaseClass - browser initialized
+10:07:38.489 [main]INFO  factory.BaseClass - get properties file from file directory
+10:07:50.107 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:07:50.485 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:07:51.024 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:07:51.321 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:07:51.686 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:07:51.696 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:07:58.855 [main]INFO  factory.BaseClass - Clicked on institution button
+10:07:58.855 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+10:08:00.036 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+10:08:00.925 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+10:08:01.045 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+10:08:08.863 [main]INFO  factory.BaseClass - Click on Save button institution.
+10:08:09.120 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+10:10:55.994 [main]INFO  factory.BaseClass - browser initialized
+10:10:56.014 [main]INFO  factory.BaseClass - get properties file from file directory
+10:11:01.346 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:11:01.667 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:11:02.752 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:11:03.264 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:11:03.624 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:11:03.632 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:11:11.213 [main]INFO  factory.BaseClass - Clicked on institution button
+10:11:11.220 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+10:11:12.473 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+10:11:13.327 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+10:11:13.435 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+10:11:21.579 [main]INFO  factory.BaseClass - Click on Save button institution.
+10:11:21.767 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+10:11:26.109 [main]INFO  factory.BaseClass - Alert not displayed, validating textfields.
+10:11:42.108 [main]INFO  factory.BaseClass - browser initialized
+10:11:42.108 [main]INFO  factory.BaseClass - get properties file from file directory
+10:11:54.034 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:11:54.378 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:11:54.924 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:11:55.385 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:11:55.780 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:11:55.780 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:12:04.802 [main]INFO  factory.BaseClass - Clicked on institution button
+10:12:04.802 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:12:05.165 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:12:05.542 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:12:06.139 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:12:13.032 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:12:16.464 [main]INFO  factory.BaseClass - browser initialized
+10:12:16.469 [main]INFO  factory.BaseClass - get properties file from file directory
+10:12:26.245 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:12:26.584 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:12:27.282 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:12:27.672 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:12:28.035 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:12:28.043 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:12:35.662 [main]INFO  factory.BaseClass - Clicked on institution button
+10:12:35.662 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:12:36.032 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:12:36.791 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:12:36.993 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:12:43.144 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:12:46.524 [main]INFO  factory.BaseClass - browser initialized
+10:12:46.524 [main]INFO  factory.BaseClass - get properties file from file directory
+10:13:00.323 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:13:00.576 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:13:01.305 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:13:01.761 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:13:02.145 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:13:02.145 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:13:10.392 [main]INFO  factory.BaseClass - Clicked on institution button
+10:13:10.392 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:13:10.864 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:13:11.766 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+10:13:11.798 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:13:19.036 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:52:54.602 [main]INFO  factory.BaseClass - browser initialized
+12:52:54.618 [main]INFO  factory.BaseClass - get properties file from file directory
+12:53:23.425 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:53:23.679 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:53:24.119 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:53:24.449 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:53:24.831 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:53:24.837 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:53:33.800 [main]INFO  factory.BaseClass - Clicked on institution button
+12:53:33.802 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+12:53:34.881 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+12:55:49.254 [main]INFO  factory.BaseClass - browser initialized
+12:55:49.259 [main]INFO  factory.BaseClass - get properties file from file directory
+12:56:04.227 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:56:04.511 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:56:04.968 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:56:05.273 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:56:05.618 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:56:05.622 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:56:13.956 [main]INFO  factory.BaseClass - Clicked on institution button
+12:56:13.957 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+12:56:15.007 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+12:59:26.436 [main]INFO  factory.BaseClass - browser initialized
+12:59:26.451 [main]INFO  factory.BaseClass - get properties file from file directory
+12:59:37.849 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:59:38.093 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:59:38.505 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:59:38.735 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:59:39.098 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:59:39.101 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:59:47.272 [main]INFO  factory.BaseClass - Clicked on institution button
+12:59:47.275 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+12:59:48.832 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+12:59:49.536 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+12:59:49.635 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:00:51.600 [main]INFO  factory.BaseClass - browser initialized
+13:00:51.601 [main]INFO  factory.BaseClass - get properties file from file directory
+13:01:00.035 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:01:00.374 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:01:00.817 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:01:01.073 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:01:01.417 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:01:01.423 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:01:09.226 [main]INFO  factory.BaseClass - Clicked on institution button
+13:01:09.232 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:01:10.756 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:01:11.121 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:01:11.192 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:01:12.317 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+13:01:13.449 [main]INFO  factory.BaseClass - Selecting Country: India
+13:01:13.662 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:01:13.899 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+13:01:14.430 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+13:01:14.818 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+13:01:15.665 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+13:01:16.116 [main]INFO  factory.BaseClass - Entering City: Cherthala
+13:01:16.457 [main]INFO  factory.BaseClass - Entering District: Alapy
+13:01:16.698 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+13:01:17.139 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+13:01:18.296 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+13:01:18.297 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:01:18.492 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+13:13:47.672 [main]INFO  factory.BaseClass - browser initialized
+13:13:47.672 [main]INFO  factory.BaseClass - get properties file from file directory
+13:13:54.219 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:13:54.525 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:13:54.922 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:13:55.127 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:13:55.527 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:13:55.532 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:14:04.470 [main]INFO  factory.BaseClass - Clicked on institution button
+13:14:04.471 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:14:06.008 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:14:06.533 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:14:06.627 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:14:07.412 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+13:14:08.584 [main]INFO  factory.BaseClass - Selecting Country: India
+13:14:08.775 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:14:08.980 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+13:14:09.452 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+13:14:09.769 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+13:14:10.568 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+13:14:11.062 [main]INFO  factory.BaseClass - Entering City: Cherthala
+13:14:11.402 [main]INFO  factory.BaseClass - Entering District: Alapy
+13:14:11.646 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+13:14:11.959 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+13:14:12.950 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+13:14:12.950 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:14:13.146 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+13:21:44.764 [main]INFO  factory.BaseClass - browser initialized
+13:21:44.764 [main]INFO  factory.BaseClass - get properties file from file directory
+13:21:52.601 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:21:52.885 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:21:53.357 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:21:53.631 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:21:53.989 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:21:53.997 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:22:42.339 [main]INFO  factory.BaseClass - browser initialized
+13:22:42.345 [main]INFO  factory.BaseClass - get properties file from file directory
+13:22:58.119 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:22:58.418 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:22:58.913 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:22:59.345 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:22:59.745 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:22:59.753 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:23:09.401 [main]INFO  factory.BaseClass - Clicked on institution button
+13:23:09.402 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:23:10.938 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:23:11.423 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:23:11.562 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:23:12.394 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+13:23:13.598 [main]INFO  factory.BaseClass - Selecting Country: India
+13:23:13.782 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:23:14.014 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+13:23:14.547 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+13:23:14.898 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+13:23:15.717 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+13:23:16.162 [main]INFO  factory.BaseClass - Entering City: Cherthala
+13:23:16.468 [main]INFO  factory.BaseClass - Entering District: Alapy
+13:23:16.729 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+13:23:17.030 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+13:23:18.090 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+13:23:18.090 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:23:18.274 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+13:25:02.314 [main]INFO  factory.BaseClass - browser initialized
+13:25:02.318 [main]INFO  factory.BaseClass - get properties file from file directory
+13:25:06.235 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:25:06.500 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:25:06.909 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:25:07.188 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:25:07.548 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:25:07.553 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:25:18.032 [main]INFO  factory.BaseClass - Clicked on institution button
+13:25:18.035 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:25:19.644 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:25:20.626 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:25:20.708 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:25:21.740 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+13:25:22.885 [main]INFO  factory.BaseClass - Selecting Country: India
+13:25:23.072 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:25:23.326 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+13:25:23.907 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+13:25:24.280 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+13:25:25.134 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+13:25:25.580 [main]INFO  factory.BaseClass - Entering City: Cherthala
+13:25:25.951 [main]INFO  factory.BaseClass - Entering District: Alapy
+13:25:26.253 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+13:25:26.626 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+13:25:27.794 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+13:25:27.796 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:25:27.920 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+13:26:51.973 [main]INFO  factory.BaseClass - browser initialized
+13:26:51.980 [main]INFO  factory.BaseClass - get properties file from file directory
+13:26:55.731 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:26:56.037 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:26:56.493 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:26:56.702 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:26:57.047 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:26:57.051 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:27:07.719 [main]INFO  factory.BaseClass - Clicked on institution button
+13:27:07.721 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:27:09.997 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:27:10.960 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:27:11.079 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:27:12.418 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+13:27:13.651 [main]INFO  factory.BaseClass - Selecting Country: India
+13:27:13.836 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:27:14.050 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+13:27:14.578 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+13:27:14.896 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+13:27:15.672 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+13:27:16.074 [main]INFO  factory.BaseClass - Entering City: Cherthala
+13:27:16.367 [main]INFO  factory.BaseClass - Entering District: Alapy
+13:27:16.568 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+13:27:16.900 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+13:27:17.929 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+13:27:17.930 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:27:18.051 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+14:45:54.834 [main]INFO  factory.BaseClass - browser initialized
+14:45:54.839 [main]INFO  factory.BaseClass - get properties file from file directory
+14:46:00.907 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:46:01.152 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:46:01.638 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:46:01.910 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:46:02.266 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:46:02.286 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:46:11.876 [main]INFO  factory.BaseClass - Clicked on institution button
+14:46:11.881 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+14:46:13.443 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+14:46:14.254 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+14:46:14.398 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+14:46:15.786 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 4
+14:46:17.081 [main]INFO  factory.BaseClass - Selecting Country: India
+14:46:17.315 [main]INFO  factory.BaseClass - Selecting State: Kerala
+14:46:17.638 [main]INFO  factory.BaseClass - Entering School Name: SreeBhudha HSS
+14:46:18.448 [main]INFO  factory.BaseClass - Entering Address: Alappuzha
+14:46:18.951 [main]INFO  factory.BaseClass - Entering Email ID: sreebhudhha@yopmail.com
+14:46:20.014 [main]INFO  factory.BaseClass - Entering Mobile No: 8769997661
+14:46:20.508 [main]INFO  factory.BaseClass - Entering City: Cherthala
+14:46:21.010 [main]INFO  factory.BaseClass - Entering District: Alapy
+14:46:21.449 [main]INFO  factory.BaseClass - Entering Pincode: 456666
+14:46:21.802 [main]INFO  factory.BaseClass - Entering Website: https://www.sreebhudhaHSS.com
+14:46:23.487 [main]INFO  factory.BaseClass - All data entered successfully from Excel row: 4
+14:46:23.488 [main]INFO  factory.BaseClass - Click on Save button institution.
+13:02:28.965 [main]INFO  factory.BaseClass - browser initialized
+13:02:28.982 [main]INFO  factory.BaseClass - get properties file from file directory
+13:02:31.709 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:02:31.998 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:02:32.802 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:02:33.096 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:02:33.446 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:02:33.454 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:49:53.326 [main]INFO  factory.BaseClass - browser initialized
+10:49:53.332 [main]INFO  factory.BaseClass - get properties file from file directory
+10:49:53.983 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:50:39.283 [main]INFO  factory.BaseClass - browser initialized
+10:50:39.283 [main]INFO  factory.BaseClass - get properties file from file directory
+10:50:39.681 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:50:45.048 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:50:45.407 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:50:45.599 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:50:46.016 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:50:46.016 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:50:57.069 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+11:03:37.080 [main]INFO  factory.BaseClass - browser initialized
+11:03:37.086 [main]INFO  factory.BaseClass - get properties file from file directory
+11:03:39.226 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+11:03:39.507 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+11:03:39.842 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+11:03:40.021 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+11:03:40.425 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+11:03:40.431 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+11:03:50.208 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+11:04:06.177 [main]INFO  factory.BaseClass - browser initialized
+11:04:06.179 [main]INFO  factory.BaseClass - get properties file from file directory
+11:04:07.766 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+11:04:08.005 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+11:04:08.335 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+11:04:08.512 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+11:04:08.877 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+11:04:08.881 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+11:04:18.848 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+12:20:54.342 [main]INFO  factory.BaseClass - browser initialized
+12:20:54.350 [main]INFO  factory.BaseClass - get properties file from file directory
+12:20:57.362 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:20:57.673 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:20:58.017 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:20:58.203 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:20:58.584 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:20:58.589 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:23:41.471 [main]INFO  factory.BaseClass - browser initialized
+12:23:41.476 [main]INFO  factory.BaseClass - get properties file from file directory
+12:23:59.309 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:23:59.602 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:23:59.974 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+12:24:00.168 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:24:00.575 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:24:00.584 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:24:12.123 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+12:24:12.508 [main]INFO  factory.BaseClass - first name enter on add teacher page
+13:09:24.679 [main]INFO  factory.BaseClass - browser initialized
+13:09:24.679 [main]INFO  factory.BaseClass - get properties file from file directory
+13:09:37.729 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:09:37.974 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:09:38.452 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:09:38.660 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:09:39.052 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:09:39.059 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:11:05.177 [main]INFO  factory.BaseClass - browser initialized
+13:11:05.195 [main]INFO  factory.BaseClass - get properties file from file directory
+13:11:07.268 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:11:07.563 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:11:07.952 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:11:08.168 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:11:08.493 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:11:08.498 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:11:18.376 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+13:11:18.892 [main]INFO  factory.BaseClass - first name enter on add teacher page
+13:11:18.892 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+13:11:19.468 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+13:11:19.470 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: Male
+13:15:22.160 [main]INFO  factory.BaseClass - browser initialized
+13:15:22.160 [main]INFO  factory.BaseClass - get properties file from file directory
+13:15:28.419 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:15:28.721 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:15:29.124 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+13:15:29.367 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:15:29.784 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:15:29.787 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:15:41.501 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+13:15:41.912 [main]INFO  factory.BaseClass - first name enter on add teacher page
+13:15:41.912 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+13:15:42.389 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+13:15:42.389 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: Male
+13:15:42.573 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+13:15:42.581 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:11:06.951 [main]INFO  factory.BaseClass - browser initialized
+14:11:06.961 [main]INFO  factory.BaseClass - get properties file from file directory
+14:11:09.843 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:11:10.144 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:11:10.540 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:11:10.794 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:11:11.203 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:11:11.220 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:11:21.863 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+14:11:22.392 [main]INFO  factory.BaseClass - first name enter on add teacher page
+14:11:22.393 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+14:11:22.800 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+14:11:22.801 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:11:22.939 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:11:22.939 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:13:36.911 [main]INFO  factory.BaseClass - browser initialized
+14:13:36.915 [main]INFO  factory.BaseClass - get properties file from file directory
+14:13:39.642 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:13:39.894 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:13:40.333 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:13:40.538 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:13:40.879 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:13:40.887 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:13:51.457 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+14:13:52.016 [main]INFO  factory.BaseClass - first name enter on add teacher page
+14:13:52.016 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+14:13:52.494 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+14:13:52.494 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:13:52.494 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:13:52.610 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:13:52.655 [main]INFO  factory.BaseClass - Checking option: female
+14:13:52.671 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:13:52.679 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:18:45.530 [main]INFO  factory.BaseClass - browser initialized
+14:18:45.530 [main]INFO  factory.BaseClass - get properties file from file directory
+14:18:47.673 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:18:47.950 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:18:48.295 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:18:48.481 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:18:48.848 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:18:48.862 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:18:59.353 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:18:59.354 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:18:59.485 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:18:59.550 [main]INFO  factory.BaseClass - Checking option: male
+14:18:59.592 [main]INFO  factory.BaseClass - Selecting gender: male
+14:18:59.877 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:18:59.885 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:21:00.622 [main]INFO  factory.BaseClass - browser initialized
+14:21:00.629 [main]INFO  factory.BaseClass - get properties file from file directory
+14:21:07.238 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:21:07.520 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:21:07.874 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:21:08.053 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:21:08.459 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:21:08.465 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:21:18.901 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:21:18.901 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:21:19.989 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:21:20.035 [main]INFO  factory.BaseClass - Checking option: male
+14:21:20.047 [main]INFO  factory.BaseClass - Selecting gender: male
+14:21:20.206 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:21:20.206 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:21:20.206 [main]INFO  factory.BaseClass - Clicking on the calendar element to select DOB.
+14:23:17.475 [main]INFO  factory.BaseClass - browser initialized
+14:23:17.482 [main]INFO  factory.BaseClass - get properties file from file directory
+14:23:22.092 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:23:22.389 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:23:22.749 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:23:22.931 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:23:23.338 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:23:23.346 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:23:34.410 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:23:34.410 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:23:34.523 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:23:34.567 [main]INFO  factory.BaseClass - Checking option: male
+14:23:34.583 [main]INFO  factory.BaseClass - Selecting gender: male
+14:23:34.796 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:23:34.800 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:23:34.800 [main]INFO  factory.BaseClass - Clicking on the calendar element to select DOB.
+14:23:35.055 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:26:57.663 [main]INFO  factory.BaseClass - browser initialized
+14:26:57.679 [main]INFO  factory.BaseClass - get properties file from file directory
+14:27:00.566 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:27:00.855 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:27:01.261 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:27:01.483 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:27:01.849 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:27:01.855 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:27:13.777 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:27:13.777 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:27:13.902 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:27:13.964 [main]INFO  factory.BaseClass - Checking option: male
+14:27:13.970 [main]INFO  factory.BaseClass - Selecting gender: male
+14:27:14.175 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:27:14.188 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:27:14.188 [main]INFO  factory.BaseClass - Clicking on the calendar element to select DOB.
+14:27:14.473 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:27:14.476 [main]INFO  utility.DatePicker - Opening date picker...
+14:27:14.552 [main]ERROR utility.DatePicker - An unexpected error occurred: 
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at utility.DatePicker.datepickerG(DatePicker.java:118) ~[test-classes/:?]
+	at page.TeacherPage.select_DOB(TeacherPage.java:72) ~[test-classes/:?]
+	at stepDefinition.addteacher_Excel.enterDetailsOnAddTeacherPageByExcelSheet(addteacher_Excel.java:70) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+14:27:14.563 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+14:28:08.933 [main]INFO  factory.BaseClass - browser initialized
+14:28:08.933 [main]INFO  factory.BaseClass - get properties file from file directory
+14:28:11.273 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:28:11.587 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:28:11.936 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:28:12.125 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:28:12.463 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:28:12.468 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:28:23.272 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:28:23.274 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:28:23.395 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:28:23.443 [main]INFO  factory.BaseClass - Checking option: male
+14:28:23.463 [main]INFO  factory.BaseClass - Selecting gender: male
+14:28:23.660 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:28:23.660 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:28:23.660 [main]INFO  factory.BaseClass - Clicking on the calendar element to select DOB.
+14:28:23.996 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:28:24.007 [main]INFO  utility.DatePicker - Opening date picker...
+14:28:24.129 [main]ERROR utility.DatePicker - An unexpected error occurred: 
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at utility.DatePicker.datepickerG(DatePicker.java:118) ~[test-classes/:?]
+	at page.TeacherPage.select_DOB(TeacherPage.java:72) ~[test-classes/:?]
+	at stepDefinition.addteacher_Excel.enterDetailsOnAddTeacherPageByExcelSheet(addteacher_Excel.java:70) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+14:28:24.146 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+14:30:30.166 [main]INFO  factory.BaseClass - browser initialized
+14:30:30.169 [main]INFO  factory.BaseClass - get properties file from file directory
+14:30:36.726 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:30:37.021 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:30:37.371 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:30:37.570 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:30:37.913 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:30:37.917 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:30:48.524 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:30:48.525 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:30:48.800 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:30:48.833 [main]INFO  factory.BaseClass - Checking option: male
+14:30:48.841 [main]INFO  factory.BaseClass - Selecting gender: male
+14:30:49.012 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:30:49.012 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:30:49.012 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:30:49.026 [main]INFO  utility.DatePicker - Opening date picker...
+14:30:49.146 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+14:30:49.338 [main]INFO  utility.DatePicker - Switched to year view
+14:30:50.295 [main]INFO  utility.DatePicker - Year 1996 selected
+14:30:50.295 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+14:30:50.450 [main]INFO  utility.DatePicker - Navigating to previous month...
+14:30:50.468 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+14:30:50.496 [main]INFO  utility.DatePicker - Total dates visible: 60
+14:30:50.834 [main]INFO  utility.DatePicker - Date 11 clicked
+14:30:58.182 [main]ERROR utility.DatePicker - An unexpected error occurred: 
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2cbfe994d9fcb7b2f9ad087622cea570, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64622}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64622/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cbfe994d9fcb7b2f9ad087622cea570
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.27.0.jar:?]
+	at utility.DatePicker.datepickerG(DatePicker.java:172) ~[test-classes/:?]
+	at page.TeacherPage.select_DOB(TeacherPage.java:72) ~[test-classes/:?]
+	at stepDefinition.addteacher_Excel.enterDetailsOnAddTeacherPageByExcelSheet(addteacher_Excel.java:70) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.20.1.jar:7.20.1]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+Caused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:496) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:383) ~[selenium-http-4.27.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:971) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:455) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.27.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:383) ~[selenium-http-4.27.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at jdk.internal.net.http.common.Utils.wrapWithExtraDetail(Utils.java:440) ~[java.net.http:?]
+	at jdk.internal.net.http.Http1Response$HeadersReader.onReadError(Http1Response.java:590) ~[java.net.http:?]
+	at jdk.internal.net.http.Http1AsyncReceiver.checkForErrors(Http1AsyncReceiver.java:302) ~[java.net.http:?]
+	at jdk.internal.net.http.Http1AsyncReceiver.flush(Http1AsyncReceiver.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.implRead(SocketChannelImpl.java:435) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:493) ~[?:?]
+	at jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1478) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1423) ~[java.net.http:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1423) ~[java.net.http:?]
+14:30:58.600 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+14:35:09.480 [main]INFO  factory.BaseClass - browser initialized
+14:35:09.480 [main]INFO  factory.BaseClass - get properties file from file directory
+14:35:21.418 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:35:21.722 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:35:22.182 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:35:22.430 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:35:22.783 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:35:22.783 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:35:34.228 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+14:35:34.751 [main]INFO  factory.BaseClass - first name enter on add teacher page
+14:35:34.751 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+14:35:35.153 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+14:35:35.153 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:35:35.153 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:35:35.272 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:35:35.317 [main]INFO  factory.BaseClass - Checking option: male
+14:35:35.329 [main]INFO  factory.BaseClass - Selecting gender: male
+14:35:35.523 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:35:35.523 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:35:35.523 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:35:35.523 [main]INFO  utility.DatePicker - Opening date picker...
+14:35:35.656 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+14:35:35.866 [main]INFO  utility.DatePicker - Switched to year view
+14:35:36.996 [main]INFO  utility.DatePicker - Year 1996 selected
+14:35:36.996 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+14:35:37.213 [main]INFO  utility.DatePicker - Navigating to previous month...
+14:35:37.256 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+14:35:37.277 [main]INFO  utility.DatePicker - Total dates visible: 60
+14:35:37.653 [main]INFO  utility.DatePicker - Date 11 clicked
+14:35:47.687 [main]ERROR utility.DatePicker - Element not found: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='chat_search_btn']"}
+  (Session info: chrome=136.0.7103.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [650e3d1d72062df559899cd5f6bbf3bd, findElement {value=//button[@class='chat_search_btn'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64800}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64800/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 650e3d1d72062df559899cd5f6bbf3bd
+14:35:47.687 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+14:38:51.370 [main]INFO  factory.BaseClass - browser initialized
+14:38:51.370 [main]INFO  factory.BaseClass - get properties file from file directory
+14:38:53.518 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:38:53.829 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:38:54.286 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+14:38:54.536 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:38:54.868 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:38:54.878 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:39:07.193 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+14:39:07.645 [main]INFO  factory.BaseClass - first name enter on add teacher page
+14:39:07.645 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+14:39:08.077 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+14:39:08.077 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+14:39:08.077 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+14:39:08.194 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+14:39:08.238 [main]INFO  factory.BaseClass - Checking option: male
+14:39:08.258 [main]INFO  factory.BaseClass - Selecting gender: male
+14:39:08.459 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+14:39:08.474 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+14:39:08.474 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+14:39:08.477 [main]INFO  utility.DatePicker - Opening date picker...
+14:39:08.616 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+14:39:08.844 [main]INFO  utility.DatePicker - Switched to year view
+14:39:10.043 [main]INFO  utility.DatePicker - Year 1996 selected
+14:39:10.043 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+14:39:10.237 [main]INFO  utility.DatePicker - Navigating to previous month...
+14:39:10.272 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+14:39:10.299 [main]INFO  utility.DatePicker - Total dates visible: 60
+14:39:10.648 [main]INFO  utility.DatePicker - Date 11 clicked
+14:39:10.648 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+15:56:58.181 [main]INFO  factory.BaseClass - browser initialized
+15:56:58.197 [main]INFO  factory.BaseClass - get properties file from file directory
+15:57:09.016 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+15:57:09.384 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+15:57:09.945 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+15:57:10.226 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+15:57:10.574 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+15:57:10.590 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+15:57:20.902 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+15:57:21.665 [main]INFO  factory.BaseClass - first name enter on add teacher page
+15:57:21.665 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+15:57:22.095 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+15:57:22.095 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+15:57:22.095 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+15:57:22.228 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+15:57:22.269 [main]INFO  factory.BaseClass - Checking option: male
+15:57:22.286 [main]INFO  factory.BaseClass - Selecting gender: male
+15:57:22.505 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+15:57:22.505 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+15:57:22.505 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+15:57:22.520 [main]INFO  utility.DatePicker - Opening date picker...
+15:57:22.685 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+15:57:22.893 [main]INFO  utility.DatePicker - Switched to year view
+15:57:24.076 [main]INFO  utility.DatePicker - Year 1996 selected
+15:57:24.076 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+15:57:24.259 [main]INFO  utility.DatePicker - Navigating to previous month...
+15:57:24.278 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+15:57:24.310 [main]INFO  utility.DatePicker - Total dates visible: 60
+15:57:24.681 [main]INFO  utility.DatePicker - Date 11 clicked
+15:57:24.681 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+16:02:31.171 [main]INFO  factory.BaseClass - browser initialized
+16:02:31.171 [main]INFO  factory.BaseClass - get properties file from file directory
+16:02:39.544 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:02:39.890 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:02:40.478 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+16:02:40.787 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:02:41.162 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:02:41.175 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:02:52.114 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+16:02:53.113 [main]INFO  factory.BaseClass - first name enter on add teacher page
+16:02:53.113 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+16:02:53.651 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+16:02:53.651 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+16:02:53.651 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+16:02:53.793 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+16:02:53.841 [main]INFO  factory.BaseClass - Checking option: male
+16:02:53.858 [main]INFO  factory.BaseClass - Selecting gender: male
+16:02:54.079 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+16:02:54.083 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+16:02:54.083 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+16:02:54.083 [main]INFO  utility.DatePicker - Opening date picker...
+16:02:54.244 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+16:02:54.453 [main]INFO  utility.DatePicker - Switched to year view
+16:02:55.705 [main]INFO  utility.DatePicker - Year 1996 selected
+16:02:55.705 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+16:02:55.905 [main]INFO  utility.DatePicker - Navigating to previous month...
+16:02:55.940 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+16:02:55.973 [main]INFO  utility.DatePicker - Total dates visible: 60
+16:02:56.410 [main]INFO  utility.DatePicker - Date 11 clicked
+16:02:56.410 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+16:02:56.410 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+16:04:04.819 [main]INFO  factory.BaseClass - browser initialized
+16:04:04.835 [main]INFO  factory.BaseClass - get properties file from file directory
+16:04:13.667 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:04:14.009 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:04:14.522 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+16:04:14.804 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:04:15.164 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:04:15.178 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:04:25.615 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+16:04:26.232 [main]INFO  factory.BaseClass - first name enter on add teacher page
+16:04:26.232 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+16:04:26.795 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+16:04:26.795 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+16:04:26.795 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+16:04:26.918 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+16:04:26.958 [main]INFO  factory.BaseClass - Checking option: male
+16:04:26.990 [main]INFO  factory.BaseClass - Selecting gender: male
+16:04:27.217 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+16:04:27.223 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+16:04:27.225 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+16:04:27.225 [main]INFO  utility.DatePicker - Opening date picker...
+16:04:27.481 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+16:04:27.668 [main]INFO  utility.DatePicker - Switched to year view
+16:04:28.896 [main]INFO  utility.DatePicker - Year 1996 selected
+16:04:28.896 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+16:04:29.099 [main]INFO  utility.DatePicker - Navigating to previous month...
+16:04:29.130 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+16:04:29.157 [main]INFO  utility.DatePicker - Total dates visible: 60
+16:04:29.620 [main]INFO  utility.DatePicker - Date 11 clicked
+16:04:29.620 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+16:04:29.620 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+16:04:31.621 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+16:04:32.305 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+16:04:32.816 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+16:04:33.040 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+16:04:33.537 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+16:04:35.277 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+16:05:15.179 [main]INFO  factory.BaseClass - browser initialized
+16:05:15.179 [main]INFO  factory.BaseClass - get properties file from file directory
+16:05:30.971 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:05:31.337 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:05:31.835 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+16:05:32.113 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:05:32.491 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:05:32.503 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:05:42.505 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+16:05:42.952 [main]INFO  factory.BaseClass - first name enter on add teacher page
+16:05:42.952 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+16:05:44.040 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+16:05:44.040 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+16:05:44.040 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+16:05:44.576 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+16:05:44.748 [main]INFO  factory.BaseClass - Checking option: male
+16:05:44.791 [main]INFO  factory.BaseClass - Selecting gender: male
+16:05:45.119 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+16:05:45.132 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+16:05:45.132 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+16:05:45.132 [main]INFO  utility.DatePicker - Opening date picker...
+16:05:45.431 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+16:05:45.638 [main]INFO  utility.DatePicker - Switched to year view
+16:05:46.832 [main]INFO  utility.DatePicker - Year 1996 selected
+16:05:46.832 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+16:05:47.021 [main]INFO  utility.DatePicker - Navigating to previous month...
+16:05:47.052 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+16:05:47.068 [main]INFO  utility.DatePicker - Total dates visible: 60
+16:05:47.474 [main]INFO  utility.DatePicker - Date 11 clicked
+16:05:47.474 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+16:05:47.474 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+16:05:49.453 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+16:05:50.120 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+16:05:50.621 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+16:05:50.849 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+16:05:51.286 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+16:05:52.596 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+17:06:18.126 [main]INFO  factory.BaseClass - browser initialized
+17:06:18.131 [main]INFO  factory.BaseClass - get properties file from file directory
+17:06:20.623 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+17:06:20.914 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+17:06:21.329 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+17:06:21.651 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+17:06:22.039 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+17:06:22.053 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+17:06:32.357 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+17:06:32.738 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+17:06:33.958 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+17:06:34.621 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: null 
+17:22:38.417 [main]INFO  factory.BaseClass - browser initialized
+17:22:38.417 [main]INFO  factory.BaseClass - get properties file from file directory
+17:22:42.070 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+17:22:42.405 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+17:22:42.783 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+17:22:43.010 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+17:22:43.416 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+17:22:43.422 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+17:23:10.085 [main]INFO  factory.BaseClass - browser initialized
+17:23:10.085 [main]INFO  factory.BaseClass - get properties file from file directory
+17:23:13.292 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+17:23:13.597 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+17:23:13.968 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+17:23:14.167 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+17:23:14.497 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+17:23:14.503 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+17:23:26.982 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+17:23:27.835 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+17:23:29.031 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+17:23:29.697 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+17:23:30.092 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+17:23:30.370 [main]INFO  factory.BaseClass - Selected subject: MATHS
+17:23:30.590 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+17:33:29.024 [main]INFO  factory.BaseClass - browser initialized
+17:33:29.042 [main]INFO  factory.BaseClass - get properties file from file directory
+17:33:32.021 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+17:33:32.445 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+17:33:32.870 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+17:33:33.461 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+17:33:33.806 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+17:33:33.814 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+17:33:47.207 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+17:33:47.765 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+17:33:48.906 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+17:33:49.866 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+17:33:50.277 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+17:33:50.565 [main]INFO  factory.BaseClass - Selected subject: MATHS
+17:33:50.836 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:27:19.037 [main]INFO  factory.BaseClass - browser initialized
+18:27:19.051 [main]INFO  factory.BaseClass - get properties file from file directory
+18:27:28.419 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+18:27:28.793 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+18:27:29.452 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+18:27:31.695 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+18:27:32.199 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+18:27:32.214 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+18:27:43.453 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+18:27:43.925 [main]INFO  factory.BaseClass - first name enter on add teacher page
+18:27:43.925 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+18:27:44.400 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+18:27:44.400 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+18:27:44.401 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+18:27:44.831 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+18:27:44.946 [main]INFO  factory.BaseClass - Checking option: male
+18:27:45.013 [main]INFO  factory.BaseClass - Selecting gender: male
+18:27:45.547 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+18:27:45.562 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+18:27:45.562 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+18:27:45.562 [main]INFO  utility.DatePicker - Opening date picker...
+18:27:45.830 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+18:27:46.186 [main]INFO  utility.DatePicker - Switched to year view
+18:27:47.549 [main]INFO  utility.DatePicker - Year 1996 selected
+18:27:47.550 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+18:27:47.735 [main]INFO  utility.DatePicker - Navigating to previous month...
+18:27:47.760 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+18:27:47.786 [main]INFO  utility.DatePicker - Total dates visible: 60
+18:27:48.177 [main]INFO  utility.DatePicker - Date 11 clicked
+18:27:48.177 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+18:27:48.178 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+18:27:50.375 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+18:27:51.087 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+18:27:51.560 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+18:27:51.773 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+18:27:52.168 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+18:27:53.279 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+18:27:53.926 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+18:27:54.315 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+18:27:54.593 [main]INFO  factory.BaseClass - Selected subject: MATHS
+18:27:54.840 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:30:09.392 [main]INFO  factory.BaseClass - browser initialized
+18:30:09.396 [main]INFO  factory.BaseClass - get properties file from file directory
+18:30:14.676 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+18:30:14.993 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+18:30:15.363 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+18:30:15.566 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+18:30:15.930 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+18:30:15.937 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+18:30:28.906 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+18:30:29.578 [main]INFO  factory.BaseClass - first name enter on add teacher page
+18:30:29.579 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+18:30:30.145 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+18:30:30.145 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+18:30:30.146 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+18:30:30.275 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+18:30:30.315 [main]INFO  factory.BaseClass - Checking option: male
+18:30:30.326 [main]INFO  factory.BaseClass - Selecting gender: male
+18:30:30.542 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+18:30:30.544 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+18:30:30.544 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+18:30:30.544 [main]INFO  utility.DatePicker - Opening date picker...
+18:30:30.688 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+18:30:30.896 [main]INFO  utility.DatePicker - Switched to year view
+18:30:31.955 [main]INFO  utility.DatePicker - Year 1996 selected
+18:30:31.955 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+18:30:32.137 [main]INFO  utility.DatePicker - Navigating to previous month...
+18:30:32.161 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+18:30:32.172 [main]INFO  utility.DatePicker - Total dates visible: 60
+18:30:32.502 [main]INFO  utility.DatePicker - Date 11 clicked
+18:30:32.502 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+18:30:32.502 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+18:30:34.484 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+18:30:35.176 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+18:30:35.634 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+18:30:35.833 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+18:30:36.181 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+18:30:37.302 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+18:30:38.049 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+18:30:38.559 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+18:30:39.885 [main]INFO  factory.BaseClass - Selected subject: MATHS
+18:30:40.156 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:32:41.779 [main]INFO  factory.BaseClass - browser initialized
+18:32:41.782 [main]INFO  factory.BaseClass - get properties file from file directory
+18:32:44.362 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+18:32:44.653 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+18:32:45.006 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+18:32:45.203 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+18:32:45.550 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+18:32:45.554 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+18:32:56.476 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+18:32:57.602 [main]INFO  factory.BaseClass - first name enter on add teacher page
+18:32:57.604 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+18:32:58.401 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+18:32:58.401 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+18:32:58.401 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+18:32:58.525 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+18:32:58.567 [main]INFO  factory.BaseClass - Checking option: male
+18:32:58.578 [main]INFO  factory.BaseClass - Selecting gender: male
+18:32:58.784 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+18:32:58.788 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+18:32:58.788 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+18:32:58.788 [main]INFO  utility.DatePicker - Opening date picker...
+18:32:58.932 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+18:32:59.118 [main]INFO  utility.DatePicker - Switched to year view
+18:33:00.276 [main]INFO  utility.DatePicker - Year 1996 selected
+18:33:00.278 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+18:33:00.477 [main]INFO  utility.DatePicker - Navigating to previous month...
+18:33:00.501 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+18:33:00.523 [main]INFO  utility.DatePicker - Total dates visible: 60
+18:33:00.872 [main]INFO  utility.DatePicker - Date 11 clicked
+18:33:00.873 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+18:33:00.873 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+18:33:02.902 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+18:33:03.516 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+18:33:04.011 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+18:33:04.225 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+18:33:04.616 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+18:33:05.714 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+18:33:06.351 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+18:33:06.754 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+18:33:07.038 [main]INFO  factory.BaseClass - Selected subject: MATHS
+18:33:07.255 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:54:01.062 [main]INFO  factory.BaseClass - browser initialized
+18:54:01.078 [main]INFO  factory.BaseClass - get properties file from file directory
+18:54:06.451 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+18:54:06.771 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+18:54:07.298 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+18:54:07.597 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+18:54:07.945 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+18:54:07.959 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+18:54:18.243 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+18:54:19.084 [main]INFO  factory.BaseClass - first name enter on add teacher page
+18:54:19.084 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+18:54:19.940 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+18:54:19.940 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+18:54:19.940 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+18:54:20.100 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+18:54:20.164 [main]INFO  factory.BaseClass - Checking option: male
+18:54:20.183 [main]INFO  factory.BaseClass - Selecting gender: male
+18:54:20.425 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+18:54:20.425 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+18:54:20.433 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+18:54:20.435 [main]INFO  utility.DatePicker - Opening date picker...
+18:54:20.617 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+18:54:20.873 [main]INFO  utility.DatePicker - Switched to year view
+18:54:22.214 [main]INFO  utility.DatePicker - Year 1996 selected
+18:54:22.215 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+18:54:22.385 [main]INFO  utility.DatePicker - Navigating to previous month...
+18:54:22.416 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+18:54:22.433 [main]INFO  utility.DatePicker - Total dates visible: 60
+18:54:22.783 [main]INFO  utility.DatePicker - Date 11 clicked
+18:54:22.783 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+18:54:22.783 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+18:54:24.807 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+18:54:24.807 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+18:54:25.452 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+18:54:25.452 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+18:54:25.892 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+18:54:25.892 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+18:54:26.089 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+18:54:26.089 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+18:54:26.451 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+18:54:26.451 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+18:54:27.689 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+18:54:27.689 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+18:54:28.348 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+18:54:28.737 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+18:54:29.018 [main]INFO  factory.BaseClass - Selected subject: MATHS
+18:54:29.303 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:54:29.346 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+18:54:29.346 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+18:54:30.095 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+18:54:30.095 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+18:54:30.347 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+18:54:30.347 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+18:54:30.592 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+18:54:31.013 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+18:54:31.637 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+18:54:32.120 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+18:55:06.653 [main]INFO  factory.BaseClass - browser initialized
+18:55:06.653 [main]INFO  factory.BaseClass - get properties file from file directory
+18:55:09.699 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+18:55:10.016 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+18:55:10.466 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+18:55:10.710 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+18:55:11.085 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+18:55:11.085 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+18:55:22.856 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+18:55:23.462 [main]INFO  factory.BaseClass - first name enter on add teacher page
+18:55:23.462 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+18:55:23.919 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+18:55:23.919 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+18:55:23.919 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+18:55:24.036 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+18:55:24.082 [main]INFO  factory.BaseClass - Checking option: male
+18:55:24.096 [main]INFO  factory.BaseClass - Selecting gender: male
+18:55:24.284 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+18:55:24.296 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+18:55:24.296 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+18:55:24.296 [main]INFO  utility.DatePicker - Opening date picker...
+18:55:24.455 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+18:55:24.692 [main]INFO  utility.DatePicker - Switched to year view
+18:55:25.800 [main]INFO  utility.DatePicker - Year 1996 selected
+18:55:25.800 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+18:55:26.021 [main]INFO  utility.DatePicker - Navigating to previous month...
+18:55:26.052 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+18:55:26.067 [main]INFO  utility.DatePicker - Total dates visible: 60
+18:55:26.417 [main]INFO  utility.DatePicker - Date 11 clicked
+18:55:26.417 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+18:55:26.417 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+18:55:28.427 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+18:55:28.427 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+18:55:29.157 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+18:55:29.157 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+18:55:29.653 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+18:55:29.654 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+18:55:29.882 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+18:55:29.882 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+18:55:30.290 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+18:55:30.290 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+18:55:31.496 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+18:55:31.496 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+18:55:32.146 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+18:55:32.543 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+18:55:32.857 [main]INFO  factory.BaseClass - Selected subject: MATHS
+18:55:33.112 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+18:55:33.140 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+18:55:33.140 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+18:55:33.843 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+18:55:33.843 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+18:55:34.061 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+18:55:34.061 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+18:55:34.303 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+18:55:34.699 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+18:55:35.226 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+18:55:35.825 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+10:13:58.464 [main]INFO  factory.BaseClass - browser initialized
+10:13:58.473 [main]INFO  factory.BaseClass - get properties file from file directory
+10:14:07.674 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:14:08.321 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:14:09.161 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:14:09.828 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:14:10.204 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:14:10.219 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:14:20.920 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+10:14:21.641 [main]INFO  factory.BaseClass - first name enter on add teacher page
+10:14:21.641 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+10:14:22.190 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+10:14:22.190 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+10:14:22.195 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+10:14:22.357 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+10:14:22.426 [main]INFO  factory.BaseClass - Checking option: male
+10:14:22.452 [main]INFO  factory.BaseClass - Selecting gender: male
+10:14:22.733 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+10:14:22.740 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+10:14:22.742 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+10:14:22.742 [main]INFO  utility.DatePicker - Opening date picker...
+10:14:22.990 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+10:14:23.290 [main]INFO  utility.DatePicker - Switched to year view
+10:14:24.743 [main]INFO  utility.DatePicker - Year 1996 selected
+10:14:24.745 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+10:14:25.066 [main]INFO  utility.DatePicker - Navigating to previous month...
+10:14:25.121 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+10:14:25.156 [main]INFO  utility.DatePicker - Total dates visible: 60
+10:14:25.657 [main]INFO  utility.DatePicker - Date 11 clicked
+10:14:25.657 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+10:14:25.657 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+10:14:28.096 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+10:14:28.096 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+10:14:28.912 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+10:14:28.912 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+10:14:29.583 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+10:14:29.583 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+10:14:29.910 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+10:14:29.910 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+10:14:30.495 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+10:14:30.495 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+10:14:31.961 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+10:14:31.961 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+10:14:32.739 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+10:14:33.142 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+10:14:33.536 [main]INFO  factory.BaseClass - Selected subject: MATHS
+10:14:33.898 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+10:14:33.961 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+10:14:33.961 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+10:14:34.935 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+10:14:34.936 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+10:14:35.243 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+10:14:35.247 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+10:14:35.593 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+10:14:36.168 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+10:14:36.880 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+10:14:37.454 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+10:31:26.978 [main]INFO  factory.BaseClass - browser initialized
+10:31:26.978 [main]INFO  factory.BaseClass - get properties file from file directory
+10:31:41.236 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:31:41.619 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:31:42.203 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:31:42.490 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:31:42.885 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:31:42.903 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:31:55.105 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+10:31:57.688 [main]INFO  factory.BaseClass - first name enter on add teacher page
+10:31:57.688 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+10:31:58.221 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+10:31:58.221 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+10:31:58.221 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+10:31:58.367 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+10:31:58.414 [main]INFO  factory.BaseClass - Checking option: male
+10:31:58.430 [main]INFO  factory.BaseClass - Selecting gender: male
+10:31:58.641 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+10:31:58.648 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+10:31:58.648 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+10:31:58.648 [main]INFO  utility.DatePicker - Opening date picker...
+10:31:58.780 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+10:31:59.005 [main]INFO  utility.DatePicker - Switched to year view
+10:32:00.200 [main]INFO  utility.DatePicker - Year 1996 selected
+10:32:00.200 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+10:32:00.396 [main]INFO  utility.DatePicker - Navigating to previous month...
+10:32:00.430 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+10:32:00.459 [main]INFO  utility.DatePicker - Total dates visible: 60
+10:32:00.867 [main]INFO  utility.DatePicker - Date 11 clicked
+10:32:00.867 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+10:32:00.867 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+10:32:02.712 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+10:32:02.712 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+10:32:03.369 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+10:32:03.369 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+10:32:03.942 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+10:32:03.942 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+10:32:04.172 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+10:32:04.172 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+10:32:04.706 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+10:32:04.706 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+10:32:06.001 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+10:32:06.001 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+10:32:06.685 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+10:32:07.062 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+10:32:07.405 [main]INFO  factory.BaseClass - Selected subject: MATHS
+10:32:07.732 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+10:32:07.791 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+10:32:07.791 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+10:32:08.636 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+10:32:08.636 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+10:32:08.973 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+10:32:08.973 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+10:32:09.232 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+10:32:09.651 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+10:32:10.242 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+10:32:10.808 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+10:41:21.305 [main]INFO  factory.BaseClass - browser initialized
+10:41:21.313 [main]INFO  factory.BaseClass - get properties file from file directory
+10:41:23.684 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:41:24.020 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:41:24.537 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+10:41:24.850 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:41:25.228 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:41:25.238 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:41:36.735 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+10:41:37.570 [main]INFO  factory.BaseClass - first name enter on add teacher page
+10:41:37.570 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+10:41:38.200 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+10:41:38.200 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+10:41:38.200 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+10:41:38.365 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+10:41:38.416 [main]INFO  factory.BaseClass - Checking option: male
+10:41:38.441 [main]INFO  factory.BaseClass - Selecting gender: male
+10:41:38.718 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+10:41:38.718 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+10:41:38.718 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+10:41:38.730 [main]INFO  utility.DatePicker - Opening date picker...
+10:41:38.949 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+10:41:39.161 [main]INFO  utility.DatePicker - Switched to year view
+10:41:40.448 [main]INFO  utility.DatePicker - Year 1996 selected
+10:41:40.448 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+10:41:40.665 [main]INFO  utility.DatePicker - Navigating to previous month...
+10:41:40.699 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+10:41:40.728 [main]INFO  utility.DatePicker - Total dates visible: 60
+10:41:41.226 [main]INFO  utility.DatePicker - Date 11 clicked
+10:41:41.227 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+10:41:41.227 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+10:41:43.138 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+10:41:43.140 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+10:41:43.871 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+10:41:43.871 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+10:41:44.448 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+10:41:44.448 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+10:41:44.692 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+10:41:44.692 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+10:41:45.161 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+10:41:45.161 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+10:41:46.443 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+10:41:46.443 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+10:41:47.169 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+10:41:47.549 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+10:41:47.888 [main]INFO  factory.BaseClass - Selected subject: MATHS
+10:41:48.163 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+10:41:48.226 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+10:41:48.226 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+10:41:48.917 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+10:41:48.917 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+10:41:49.219 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+10:41:49.219 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+10:41:49.494 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+10:41:49.999 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+10:41:50.719 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+10:41:51.235 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+11:00:51.494 [main]INFO  factory.BaseClass - browser initialized
+11:00:51.494 [main]INFO  factory.BaseClass - get properties file from file directory
+11:00:54.325 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+11:00:54.688 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+11:00:55.243 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+11:00:55.522 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+11:00:55.874 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+11:00:55.882 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+11:01:10.254 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Shashi
+11:01:10.842 [main]INFO  factory.BaseClass - first name enter on add teacher page
+11:01:10.842 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Tharoor
+11:01:11.324 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+11:01:11.324 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+11:01:11.324 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+11:01:11.483 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+11:01:11.516 [main]INFO  factory.BaseClass - Checking option: male
+11:01:11.532 [main]INFO  factory.BaseClass - Selecting gender: male
+11:01:11.790 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+11:01:11.790 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+11:01:11.790 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+11:01:11.800 [main]INFO  utility.DatePicker - Opening date picker...
+11:01:12.065 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+11:01:12.278 [main]INFO  utility.DatePicker - Switched to year view
+11:01:13.487 [main]INFO  utility.DatePicker - Year 1996 selected
+11:01:13.487 [main]INFO  utility.DatePicker - Waiting for month June to be visible
+11:01:13.671 [main]INFO  utility.DatePicker - Navigating to previous month...
+11:01:13.697 [main]INFO  utility.DatePicker - Desired month and year displayed: June 1996
+11:01:13.728 [main]INFO  utility.DatePicker - Total dates visible: 60
+11:01:14.133 [main]INFO  utility.DatePicker - Date 11 clicked
+11:01:14.133 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+11:01:14.133 [main]INFO  factory.BaseClass - email id fetch from excel sheer: shashitharoor@gmail.com
+11:01:16.216 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+11:01:16.220 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566666
+11:01:17.108 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+11:01:17.108 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+11:01:17.618 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+11:01:17.618 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+11:01:17.860 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+11:01:17.860 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: School
+11:01:18.243 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+11:01:18.243 [main]INFO  factory.BaseClass - School Name fetch from excel sheer: SN School
+11:01:19.663 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+11:01:19.663 [main]INFO  factory.BaseClass - Class name id fetch from excel sheer: Class_09
+11:01:20.325 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: CHEMISTRY MATHS
+11:01:21.643 [main]INFO  factory.BaseClass - Subject dropdown clicked.
+11:01:22.310 [main]INFO  factory.BaseClass - Selected subject: MATHS
+11:01:22.649 [main]INFO  factory.BaseClass - Selected subject: CHEMISTRY
+11:01:22.678 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+11:01:22.678 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+11:01:23.439 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+11:01:23.439 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+11:01:23.712 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+11:01:23.712 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+11:01:23.984 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+11:01:24.429 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+11:01:25.001 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+11:01:25.507 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+11:01:28.899 [main]INFO  factory.BaseClass - browser initialized
+11:01:28.899 [main]INFO  factory.BaseClass - get properties file from file directory
+11:01:37.673 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+11:01:37.977 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+11:01:38.532 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+11:01:38.837 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+11:01:39.208 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+11:01:39.208 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+11:01:49.391 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Pinarayi
+11:01:50.252 [main]INFO  factory.BaseClass - first name enter on add teacher page
+11:01:50.252 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Vijayan 
+11:01:53.001 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+11:01:53.001 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+11:01:53.001 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+11:01:53.137 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+11:01:53.198 [main]INFO  factory.BaseClass - Checking option: male
+11:01:53.218 [main]INFO  factory.BaseClass - Selecting gender: male
+11:01:53.592 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+11:01:53.592 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=22, Month=May, Year=1864
+11:01:53.592 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 22, Month: May, Year: 1864
+11:01:53.592 [main]INFO  utility.DatePicker - Opening date picker...
+11:01:54.295 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+11:01:54.801 [main]INFO  utility.DatePicker - Switched to year view
+11:01:56.030 [main]WARN  utility.DatePicker - Year 1864 not found in list
+11:01:56.030 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+11:01:56.030 [main]INFO  factory.BaseClass - email id fetch from excel sheer: pinarayivijayan@gmail.com
+11:01:56.160 [main]ERROR factory.BaseClass - Error while filling Add Teacher form: element not interactable
+  (Session info: chrome=136.0.7103.114)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b409cad747480604d2e5cfeef7a6414b, sendKeysToElement {value=[Ljava.lang.CharSequence;@e972ee1, id=f.E6CC9FC42CC062E012D5A770A2085AA7.d.F00B5A08622098782E611C3FD583A09C.e.1553}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61264}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61264/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b409cad747480604d2e5cfeef7a6414b)] -> xpath: //input[@data-id='email']]
+Session ID: b409cad747480604d2e5cfeef7a6414b
+11:01:58.220 [main]INFO  factory.BaseClass - browser initialized
+11:01:58.220 [main]INFO  factory.BaseClass - get properties file from file directory
+11:02:00.697 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+11:02:00.962 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+11:02:01.535 [main]INFO  factory.BaseClass - Selecting Admin option from dropdown
+11:02:02.503 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+11:02:02.909 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+11:02:02.909 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+11:02:12.418 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Umman
+11:02:12.946 [main]INFO  factory.BaseClass - first name enter on add teacher page
+11:02:12.946 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Chandi
+11:02:14.290 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+11:02:14.290 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+11:02:14.290 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+11:02:14.530 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+11:02:14.578 [main]INFO  factory.BaseClass - Checking option: male
+11:02:14.611 [main]INFO  factory.BaseClass - Selecting gender: male
+11:02:14.890 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+11:02:14.890 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=5, Month=March, Year=1877
+11:02:14.890 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 5, Month: March, Year: 1877
+11:02:14.890 [main]INFO  utility.DatePicker - Opening date picker...
+11:02:15.120 [main]INFO  utility.DatePicker - Initially displayed month and year: May 2007
+11:02:15.458 [main]INFO  utility.DatePicker - Switched to year view
+11:02:17.165 [main]WARN  utility.DatePicker - Year 1877 not found in list
+11:02:17.165 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+11:02:17.165 [main]INFO  factory.BaseClass - email id fetch from excel sheer: ummanchandi@gmail.com
+11:02:17.293 [main]ERROR factory.BaseClass - Error while filling Add Teacher form: element not interactable
+  (Session info: chrome=136.0.7103.114)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [769c824cd7e05e29321e45ba07fa61ab, sendKeysToElement {value=[Ljava.lang.CharSequence;@b9b97ad, id=f.32712947F33182C4DF2380CFF2763C52.d.1A4F3BD134A820D5B23C0E4BDD45B61E.e.1534}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61328}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61328/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (769c824cd7e05e29321e45ba07fa61ab)] -> xpath: //input[@data-id='email']]
+Session ID: 769c824cd7e05e29321e45ba07fa61ab
