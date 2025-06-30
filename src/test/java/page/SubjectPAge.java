@@ -87,6 +87,7 @@ public class SubjectPAge extends BasePage{
     public void enter_Subject_Name(String subject)
     {
         subjectNameTextFieldElement.sendKeys(subject);
+        saveButtonElement.click();
     }
 
     public void click_Save_Button(){
@@ -100,16 +101,19 @@ public class SubjectPAge extends BasePage{
 
     }
 
+
     public void select_class_from_dropdown(String clas){
         classdropdownelement.click();
         for(WebElement dropdown: dropDownElement) {
-            String institute= dropdown.getText();
-            if(institute.equalsIgnoreCase(clas)) {
+            String cl= dropdown.getText();
+            if(cl.equalsIgnoreCase(clas)) {
                 dropdown.click();
                 break;
             }
         }
+
     }
+
 
     public String alertMessage()
     {

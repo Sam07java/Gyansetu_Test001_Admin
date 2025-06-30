@@ -4,12 +4,9 @@ import factory.BaseClass;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-import org.testng.asserts.Assertion;
 import page.*;
 import utility.ExelUtility;
 import utility.Screenshot;
@@ -18,10 +15,10 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-import static factory.BaseClass.driver;
-
-public class addData_Excel {
-        public String path= "src\\test\\test-Data\\Data for Users.xlsx";
+public class addData_Excel_School {
+     //   public String path= "src\\test\\test-Data\\Data for Users.xlsx";
+    //    public String path = System.getProperty("user.dir") + "/src/test-data/Data for Users.xlsx";
+     String path= System.getProperty("user.dir") + "\\src\\test\\test-Data\\Data for Users.xlsx";
         public UniversityPage universityPage;
         public ExelUtility exelUtility;
         public InstitutePage institutePage;
@@ -46,6 +43,7 @@ public class addData_Excel {
     @And("Verify with toaster message whether University is added or not.")
     public void verifyWithToasterMessageWhetherUniversityIsAddedOrNot() throws InterruptedException {
         Thread.sleep(300);
+
       String alert=  universityPage.alertMessage();
         System.out.println(alert);
         Assert.assertEquals(alert,"University added successfully");
@@ -171,17 +169,23 @@ public class addData_Excel {
     @And("Fetch data from excel sheet for select class and enter the Subject {string} {}.")
     public void fetchDataFromExcelSheetForSelectClassAndEnterTheSubject(String sheetname, Integer in) throws IOException, InterruptedException {
         exelUtility=new ExelUtility(path);
+        subjectPAgee=new SubjectPAge(BaseClass.getDriver());
         List<Map<String, String>> classesSubjectData =  exelUtility.storeData(path,sheetname);
 
+        String institutedropdown =  classesSubjectData.get(in).get("Institute");
+        BaseClass.getLogger().info("Selecting institute from dropdown: "+ institutedropdown);
+        subjectPAgee.select_institute_FromDropDown(institutedropdown);
         String classes= classesSubjectData.get(in).get("Class");
         System.out.println(classes);
-        subjectPAgee=new SubjectPAge(BaseClass.getDriver());
         subjectPAgee.select_class_from_dropdown(classes);
         String subject=classesSubjectData.get(in).get("Subject A");
         System.out.println(subject);
         subjectPAgee.enter_Subject_Name(subject);
 
         Thread.sleep(500);
+        String institutedropdown1 =  classesSubjectData.get(in).get("Institute");
+        BaseClass.getLogger().info("Selecting institute from dropdown: "+ institutedropdown1);
+        subjectPAgee.select_institute_FromDropDown(institutedropdown1);
         String classes1= classesSubjectData.get(in).get("Class");
         System.out.println(classes1);
         subjectPAgee=new SubjectPAge(BaseClass.getDriver());
@@ -191,6 +195,9 @@ public class addData_Excel {
         subjectPAgee.enter_Subject_Name(subjectb);
 
         Thread.sleep(500);
+        String institutedropdown2 =  classesSubjectData.get(in).get("Institute");
+        BaseClass.getLogger().info("Selecting institute from dropdown: "+ institutedropdown2);
+        subjectPAgee.select_institute_FromDropDown(institutedropdown2);
         String classes2= classesSubjectData.get(in).get("Class");
         System.out.println(classes2);
         subjectPAgee=new SubjectPAge(BaseClass.getDriver());
@@ -200,6 +207,9 @@ public class addData_Excel {
         subjectPAgee.enter_Subject_Name(subjectc);
 
         Thread.sleep(500);
+        String institutedropdown3 =  classesSubjectData.get(in).get("Institute");
+        BaseClass.getLogger().info("Selecting institute from dropdown: "+ institutedropdown3);
+        subjectPAgee.select_institute_FromDropDown(institutedropdown3);
         String classes3= classesSubjectData.get(in).get("Class");
         System.out.println(classes3);
         subjectPAgee=new SubjectPAge(BaseClass.getDriver());

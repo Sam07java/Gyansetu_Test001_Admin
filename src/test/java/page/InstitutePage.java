@@ -12,6 +12,7 @@ public class InstitutePage extends BasePage{
     public InstitutePage(WebDriver driver) {
         super(driver);
     }
+
 @FindBy(xpath = "//a[text()='Add Institute']")
     WebElement addinstituteButton;
 
@@ -19,12 +20,13 @@ public class InstitutePage extends BasePage{
 @FindBy(id = "mui-component-select-entity_id")
     WebElement entityDroDownElement;
 
-@FindBy(className = "main_title")
+@FindBy(className = "top-header")
     WebElement heading;
 
-@FindBy(xpath = "//li[text()='School']")
+@FindBy(xpath = "//li[text()='school']")
     WebElement schoolElementfromEntityDropDown;
-@FindBy(xpath = "//li[text()='College']")
+
+@FindBy(xpath = "//li[text()='college']")
     WebElement collageElementfromEntituDropDown;
 
 @FindBy(id = "mui-component-select-university_id")
@@ -67,6 +69,7 @@ public class InstitutePage extends BasePage{
 
 @FindBy(xpath = "//button[@class='btn btn-primary mainbutton mt-4']")
     WebElement saveButtonElement;
+
 
 //public void enterTextFields(List<String> inputValues){
 //    for (int i = 0; i < textFields.size(); i++) {
@@ -156,8 +159,12 @@ public class InstitutePage extends BasePage{
         saveButtonElement.click();
     }
 
-    public WebElement alertMessage()
-    {
+    public void enter_schoolName(String schoolName){
+        WebElement schoolfieldelement=driver.findElement(By.xpath("//input[@class='MuiInputBase-input MuiOutlinedInput-input institute-name css-1x5jdmq']"));
+        schoolfieldelement.sendKeys(schoolName);
+    }
+
+    public WebElement alertMessage() {
        return driver.findElement(By.xpath("//div[@class='Toastify__toast-body']//div[2]"));
     }
 

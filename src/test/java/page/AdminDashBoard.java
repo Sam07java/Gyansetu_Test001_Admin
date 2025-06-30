@@ -1,5 +1,6 @@
 package page;
 
+import factory.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -8,11 +9,12 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utility.WaitHelper;
 
 import java.time.Duration;
 
 public class AdminDashBoard extends BasePage{
-
+    WaitHelper waitHelper;
     public AdminDashBoard(WebDriver driver) {
         super(driver);
     }
@@ -20,10 +22,10 @@ public class AdminDashBoard extends BasePage{
     @FindBy(className = "sidebar-nav")
     WebElement sidebarElement;
 
-    @FindBy(xpath = "//a[text()='Institution']")
+    @FindBy(xpath = "//a[text()='Institution Management']")
     WebElement institutionElement;
 
-    @FindBy(xpath = "//*[text()='University']")
+    @FindBy(xpath = "//a[text()='University']")
     WebElement universityElement;
 
     @FindBy(xpath = "//a[text()='Institute']")
@@ -41,13 +43,32 @@ public class AdminDashBoard extends BasePage{
     @FindBy(xpath = "//a[@class='dropdown-toggle dropdown-toggle-nocaret']")
     WebElement dropdowntoggle;
 
-    @FindBy(xpath = "//button[@class='dropdown-item d-flex align-items-center gap-2 py-2']")
+    @FindBy(xpath = "//button[text()=' Logout']")
     WebElement dropdownLogoutelemnt;
 
-    public void click_masterManagment() {
+    @FindBy(xpath = "//div[text()='Hobby']")
+    WebElement hobbyElement;
+
+    @FindBy(xpath = "//div[text()='Class']")
+    WebElement classelement;
+
+    @FindBy(xpath="//div[text()='Teacher']")
+    WebElement teacherButton_inSideBar;
+
+    public void click_teacherButton_inSideBar(){
+        teacherButton_inSideBar.click();
+    }
+
+    public void click_masterManagment() throws InterruptedException {
+       // Thread.sleep(9000);
         Actions action=new Actions(driver);
         WebElement el= driver.findElement(By.xpath("//div[text()='Master Management']"));
-         action.moveToElement(sidebarElement).build().perform();
+//        By ll = By.className("sidebar-nav");
+//        WebElement epp = waitHelper.waitForVisibility(ll, 10);
+        action.moveToElement(sidebarElement).build().perform();
+
+     //   WebElement el =  waitHelper.waitForVisibility(By.xpath("//div[text()='Master Management']"), 1);
+
         //action.moveToElement(masterManagementElement).click().build().perform();
         //moveToElement(masterManagementElement).click().build().perform();
        // action.moveToElement(masterMangmentElement).click().perform();
@@ -66,14 +87,19 @@ public class AdminDashBoard extends BasePage{
     }
 
     public void click_institutionButton() {
+        BaseClass.getLogger().info("clicking on Institute management button");
         institutionElement.click();
        // masterMangmentElement.click();
-     //  JavascriptExecutor js=(JavascriptExecutor)driver;
-     //  js.executeScript("arguments[0].click()",masterMangmentElement);
+//        BaseClass.getLogger().info("Running click_institutionButton methode");
+//       JavascriptExecutor js=(JavascriptExecutor)driver;
+//       js.executeScript("arguments[0].click()",institutionElement);
+//        BaseClass.getLogger().info("Execute java script executor");
     }
 
     public void click_UniversityButton() {
-        universityElement.click();
+     //   universityElement.click();
+        JavascriptExecutor js=(JavascriptExecutor)driver;
+        js.executeScript("arguments[0].click()",universityElement);
     }
 
     public void click_CourseButton() {
@@ -90,9 +116,14 @@ public class AdminDashBoard extends BasePage{
         languageElement.click();
     }
 
+    public void click_hobbyButton(){
+        hobbyElement.click();
+    }
+
+    public void click_classButton(){classelement.click();}
 
     public void logOut() throws InterruptedException {
-        Thread.sleep(1000);
+     //   Thread.sleep(1000);
        //WebElement dropdownToggle= driver.findElement(By.xpath("//a[@class='dropdown-toggle dropdown-toggle-nocaret']"));
 
         JavascriptExecutor js=(JavascriptExecutor)driver;
@@ -109,5 +140,6 @@ public class AdminDashBoard extends BasePage{
         // dropdownToggle.click();
 
     }
+
 
 }

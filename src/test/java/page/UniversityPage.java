@@ -28,12 +28,16 @@ public class UniversityPage extends BasePage {
 
     public void setAdduniversityTextField(String university)
     {
+
         adduniversityTextField.sendKeys(university);
+       // adduniversityTextField.click();
     }
 
-    public void click_saveButton()
-    {
+    public void click_saveButton() throws InterruptedException {
         saveButton.click();
+//        Thread.sleep(1000);
+       adduniversityTextField.clear();
+
     }
 
     public String alertMessage()

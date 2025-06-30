@@ -1,4 +1,4 @@
-Feature: Add necessary data on admin panel.
+Feature: Add necessary data on admin panel-->>University, Institute, Course, Semester, Classes
 
   Background: User is Logged in as Admin.
     Given Login to the Admin Panel.
@@ -6,26 +6,39 @@ Feature: Add necessary data on admin panel.
     And Click on Master Management in sidebar.
     Then Click on Institution in sidebar.
 
-  Scenario Outline: Add data -- University, Institute, Course, Semester, Classes
-    Given Click on Univercity in sidebar for add University data.
+  Scenario Outline: Add data -->> University
+    Given Click on University in sidebar for add University data.
     When Check whether list of University Page is displayed or not.
     And Click on add University Button.
-    And Enter the University Name "<University>" on the text field.
-    And Click on Save button.
+  #  And Enter the University Name "<University>" on the text field.
+    And Enter the University Name on text field and Click Save Button.
+      | Indian Institutes of Technology (IITs) |
+      | University of Delhi (DU)               |
+      | Jawaharlal Nehru University (JNU)      |
+  #  And Click on Save button.
     And Verify the toaster message with added successfully or not
     Then LogOut Admin Page
-   Examples:
-     | University                             |
-     | Indian Institutes of Technology (IITs) |
-     | University of Delhi (DU)               |
-   #  | Jawaharlal Nehru University (JNU)      |
+    Examples:
+      | University                             |
+      | Indian Institutes of Technology (IITs) |
+      | University of Delhi (DU)               |
+      | Jawaharlal Nehru University (JNU)      |
 
+  Scenario Outline: Add University from Execl Sheet
+    Given Click on University in sidebar for add University data.
+    When Check whether list of University Page is displayed or not.
+    And Click on add University Button.
+    And Fetch data from excel sheet, Enter the university Name on the text field "<Shortname>" and <RowNumber>
+    And Click Save button
+    And Verify with toaster message whether University is added or not.
+    Then LogOut Admin Page
+    Examples:
+      | Shortname  | RowNumber |
+      | University | 1         |
+      | University | 2         |
+      | University | 3         |
 
-    Scenario Outline: Add data--Institute
-#        Given Login to the Admin Panel.
-#        When Validate DashBoard is displayed Successfully.
-#        And Click on Master Management in sidebar.
-#        And Click on Institution in sidebar.
+    Scenario Outline: Add data-->>Institute
         Given Click on Institute in sidebar for add institute data.
         And Check whether list of Institute Page is displayed or not.
         And Click on ADD INSTITUTE Button.
@@ -47,17 +60,13 @@ Feature: Add necessary data on admin panel.
         And Verify the toaster message is displayed or not.
         Then LogOut Admin Page
         Examples:
-          | University                             | Institute       | Address | Email             | Phone      |
-          | Indian Institutes of Technology (IITs) | IIT Goliath     | Bombay  | iitkol5@gmail.com | 9887866626 |
-          | Indian Institutes of Technology (IITs) | Faculty of Arts | Delhi   | exeter5@gmail.com | 9887866601 |
+          | University                             | Institute       | Address | Email              | Phone      |
+          | Indian Institutes of Technology (IITs) | IIT Goliath     | Bombay  | iitkol10@gmail.com | 9887866630 |
+          | Indian Institutes of Technology (IITs) | Faculty of Arts | Delhi   | exeter10@gmail.com | 9887866603 |
         #  | University of Delhi (DU)               | Faculty of Arts       | Delhi     | du1211@gmail.com   | 9887866613 |
          # | University of Delhi (DU)               | St. Stephen's College | Ahmedabad | stephen1@gmail.com | 9887866614 |
 
   Scenario Outline: Add Course data on Admin panel
-#    Given Login to the Admin Panel.
-#    And Validate DashBoard is displayed Successfully.
-#    When Click on Master Management in sidebar.
-#    And Click on Institution in sidebar.
     Given Click on Course button in sidebar.
     And Verify the Course page list is displayed.
     When Click on ADD COURSE button
@@ -68,7 +77,7 @@ Feature: Add necessary data on admin panel.
     And Click on Save Button in Add Course page.
     And Validate the Course added successfully by toaster message.
     Then LogOut Admin Page
-    Examples:
+    Examples:0
       | Institute       | Course       | Duration |
       | Faculty of Arts | Physics      | 3        |
       | Faculty of Arts | Mechatronics | 3        |
@@ -80,12 +89,8 @@ Feature: Add necessary data on admin panel.
 #      | Faculty of Arts | Department of History | 3        |
 #      | Faculty of Arts | Department of Geology | 3        |
 #
-
+#
   Scenario Outline: Add Subject on Admin panel-->>College User.
-#  Given Login to the Admin Panel.
-#  And Validate DashBoard is displayed Successfully.
-#  When Click on Master Management in sidebar.
-#  And Click on Institution in sidebar.
   Given Click on Subject Button in sidebar.
   And Verify list of Subject page is shown.
   When Click on ADD SUBJECT button
@@ -109,7 +114,7 @@ Feature: Add necessary data on admin panel.
 #    | IIT Bombay | ECE    | Semester 2 | DSP               |
 #    | IIT Bombay | ECE    | Semester 2 | Communication     |
 #    | IIT Bombay | ECE    | Semester 2 | Digital Signal    |
-#
+##
     Scenario Outline: Add Subject for School User.
 #      Given Login to the Admin Panel.
 #      When Validate DashBoard is displayed Successfully.
@@ -125,9 +130,9 @@ Feature: Add necessary data on admin panel.
       And Validate the Subject added successfully by toaster message.
       Then LogOut Admin Page
       Examples:
-        | Class    | Subject |
-        | class 03 | Science |
-        | class 04 | English |
+        | Class    | Subject   |
+        | class 03 | Malayalam |
+        | class 04 | Hindi     |
 
-#
+
 

@@ -24,7 +24,9 @@ public class LanguagePage extends BasePage{
     }
 
     public void enter_Language_on_textField(String language){
+        languageTextFieldElement.clear();
         languageTextFieldElement.sendKeys(language);
+
     }
 
     public void click_on_Save_Button(){

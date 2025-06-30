@@ -3,8 +3,7 @@ Feature: Add Language and Hobby on Admin panel
   Background:
     Given Login to the Admin Panel.
     When Validate DashBoard is displayed Successfully.
-    And Click on Master Management in sidebar.
-   # Then Click on Language Button.
+    Then Click on Master Management in sidebar.
 
   Scenario: Add Language.
     Given Click on Language Button.
@@ -15,7 +14,14 @@ Feature: Add Language and Hobby on Admin panel
       | Tulu          |
       | Sanskrit      |
       | Malayalam     |
-    Then Verify the toaster message is displayed.
+      | Punjabi       |
+      | Telugu        |
+      | English       |
+      | Tamil         |
+      | Marathi       |
+      | Hindi         |
+      | Urudhu        |
+   # Then Verify the toaster message is displayed.
     Then LogOut Admin Page
 
 #    Examples:
@@ -24,3 +30,21 @@ Feature: Add Language and Hobby on Admin panel
 #      | Arabic Second |
 #      | Tulu          |
 #      | Sanskrit     |
+
+  Scenario: Add Hobby
+    Given Click on Hobby Button.
+    And Click on ADD HOBBIES Button.
+    When Enter hobbys on text field.
+      | Carom     |
+      | Chess      |
+      | Cricket    |
+      | Drawing    |
+      | Dancing    |
+      | Reading    |
+      | Travelling |
+      | Singing    |
+      | Running    |
+      | Swimming   |
+      | cooking    |
+    And Click on Save button on Hobbies.
+    Then LogOut Admin Page

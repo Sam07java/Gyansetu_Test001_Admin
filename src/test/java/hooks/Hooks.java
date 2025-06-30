@@ -10,25 +10,28 @@ import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.util.Properties;
+import java.util.logging.Logger;
 
 
 public class Hooks {
     static WebDriver driver;
     static Properties p;
    public static SoftAssert softAssert;
-    //@Before
-    @BeforeAll
+    @Before
+   // @BeforeAll
     public static void setup() throws IOException {
 
     driver= BaseClass.initlizeBrowser();
+    BaseClass.getLogger().info("browser initialized");
+      //  logger.info("browser initialized");
     p=BaseClass.getProperties();
-    driver.get(p.getProperty("appURL"));
-    driver.manage().window().maximize();
-
-
+    BaseClass.getLogger().info("get properties file from file directory");
+   //     logger.info("get properties file from file directory");
+        driver.get(p.getProperty("appURL"));
+        driver.manage().window().maximize();
     }
 
-    @AfterAll
+    @After
     public static void tearDown()
     {
       //  softAssert.assertAll();
