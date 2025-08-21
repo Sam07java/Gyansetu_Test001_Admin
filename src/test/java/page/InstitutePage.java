@@ -43,28 +43,28 @@ public class InstitutePage extends BasePage{
 //@FindBy(xpath = "div[@class='MuiInputBase-input MuiOutlinedInput-input css-1x5jdmq']")
 //    List<WebElement> textFields;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input institute-name css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input institute-name css-h4os0j']")
     WebElement instituteNameTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input address css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input address css-h4os0j']")
     WebElement addressTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input email css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input email css-h4os0j']")
     WebElement emailTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input mobile css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input mobile css-h4os0j']")
     WebElement mobileNumberTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input city css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input city css-h4os0j']")
     WebElement cityTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input district css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input district css-h4os0j']")
     WebElement districtTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input pincode css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input pincode css-h4os0j']")
     WebElement pincodeTextFieldElement;
 
-@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input website css-1x5jdmq']")
+@FindBy(xpath = "//input[@class='MuiInputBase-input MuiOutlinedInput-input website css-h4os0j']")
     WebElement websiteTextFieldlElement;
 
 @FindBy(xpath = "//button[@class='btn btn-primary mainbutton mt-4']")

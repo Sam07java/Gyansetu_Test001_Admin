@@ -30,7 +30,7 @@ public class addData_Excel_College {
         institutePage.click_CollageElement_fromEntityDropDown();
 
         exelUtility=new ExelUtility(path);
-       List<Map<String, String>> instituteCollage = exelUtility.storeData(path, sheet);
+       List<Map<String, String>> instituteCollage = exelUtility.storeData001(path, sheet);
 
        //Select University from dropdown
        String university = instituteCollage.get(rowNo).get("University");
@@ -225,7 +225,7 @@ public class addData_Excel_College {
             String subA = teacherdata.get(rowNum).get("Subject A");
             String subB = teacherdata.get(rowNum).get("Subject B");
 
-            BaseClass.getLogger().info("Subjects fetch from excel sheet: " + subB + " " + subA);
+            BaseClass.getLogger().info("Subjects fetch from excel sheet: " + subB + ", " + subA);
 
             teacherPage.select_subjectCollege(subA, subB);
 

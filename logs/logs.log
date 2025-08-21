@@ -9561,3 +9561,1202 @@ Session ID: 7221cb1908e9219fbd3ffa5ca8646cea
 17:25:00.110 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
 17:25:00.770 [main]INFO  factory.BaseClass - Click on School Button for add subject.
 17:25:02.077 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:50:39.051 [main]INFO  factory.BaseClass - browser initialized
+12:50:39.054 [main]INFO  factory.BaseClass - get properties file from file directory
+12:50:44.043 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:50:44.500 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:50:45.138 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:50:45.290 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:50:47.315 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:50:52.648 [main]INFO  factory.BaseClass - clicking on Institute management button
+12:50:52.887 [main]INFO  factory.BaseClass - Clicked on institution Management button
+12:50:52.904 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:50:53.505 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:50:55.415 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:50:59.704 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:04.138 [main]INFO  factory.BaseClass - browser initialized
+12:51:04.140 [main]INFO  factory.BaseClass - get properties file from file directory
+12:51:09.398 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:51:09.666 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:51:10.258 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:51:10.360 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:51:12.375 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:51:12.993 [main]INFO  factory.BaseClass - clicking on Institute management button
+12:51:13.262 [main]INFO  factory.BaseClass - Clicked on institution Management button
+12:51:13.264 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:51:13.597 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:13.937 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:51:14.703 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:17.633 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:19.521 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:21.406 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:23.673 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:51:26.458 [main]INFO  factory.BaseClass - browser initialized
+12:51:26.460 [main]INFO  factory.BaseClass - get properties file from file directory
+12:51:29.469 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:51:29.799 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:51:30.644 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:51:30.862 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:51:32.882 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:51:33.781 [main]INFO  factory.BaseClass - clicking on Institute management button
+12:51:34.225 [main]INFO  factory.BaseClass - Clicked on institution Management button
+12:51:34.227 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:51:34.704 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:51:35.375 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:51:36.047 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:40.062 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:42.879 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:45.076 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:51:46.720 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:51:49.180 [main]INFO  factory.BaseClass - browser initialized
+12:51:49.181 [main]INFO  factory.BaseClass - get properties file from file directory
+12:51:59.762 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:51:59.949 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:52:00.474 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:52:00.629 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:52:02.639 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:52:04.124 [main]INFO  factory.BaseClass - clicking on Institute management button
+12:52:04.314 [main]INFO  factory.BaseClass - Clicked on institution Management button
+12:52:04.315 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:52:04.559 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:52:04.927 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+12:52:06.294 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:52:10.237 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:52:12.586 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:52:15.051 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+12:52:16.730 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+12:52:18.721 [main]INFO  factory.BaseClass - browser initialized
+12:52:18.728 [main]INFO  factory.BaseClass - get properties file from file directory
+12:52:24.852 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+12:52:25.041 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+12:52:25.708 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+12:52:25.856 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+12:52:27.861 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+12:52:28.873 [main]INFO  factory.BaseClass - clicking on Institute management button
+12:52:29.172 [main]INFO  factory.BaseClass - Clicked on institution Management button
+12:52:29.174 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+12:52:29.547 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+12:52:30.010 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+14:00:09.058 [main]INFO  factory.BaseClass - browser initialized
+14:00:09.063 [main]INFO  factory.BaseClass - get properties file from file directory
+14:00:12.132 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:00:12.444 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:00:12.944 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:00:13.061 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:00:15.079 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:00:16.019 [main]INFO  factory.BaseClass - clicking on Institute management button
+14:00:16.244 [main]INFO  factory.BaseClass - Clicked on institution Management button
+14:00:16.244 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+14:00:16.557 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+14:00:17.123 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+14:00:17.140 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+14:00:18.801 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+14:00:19.856 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:20.083 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:20.395 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:20.803 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:21.074 [main]INFO  factory.BaseClass - Selected Class: Class 04
+14:00:21.467 [main]INFO  factory.BaseClass - Entered Subject Name: English
+14:00:21.634 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:22.149 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:22.347 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:22.649 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:23.066 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:23.420 [main]INFO  factory.BaseClass - Selected Class: Class 04
+14:00:23.989 [main]INFO  factory.BaseClass - Entered Subject Name: Mathematics
+14:00:24.152 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:24.664 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:24.832 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:25.132 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:25.547 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:25.801 [main]INFO  factory.BaseClass - Selected Class: Class 04
+14:00:26.201 [main]INFO  factory.BaseClass - Entered Subject Name: Science
+14:00:26.371 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:26.889 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:27.049 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:27.293 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:27.687 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:27.957 [main]INFO  factory.BaseClass - Selected Class: Class 04
+14:00:28.479 [main]INFO  factory.BaseClass - Entered Subject Name: Social Science 
+14:00:28.664 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:28.668 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+14:00:28.880 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:30.551 [main]INFO  factory.BaseClass - browser initialized
+14:00:30.559 [main]INFO  factory.BaseClass - get properties file from file directory
+14:00:33.330 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:00:33.580 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:00:34.102 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:00:34.212 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:00:36.223 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:00:37.130 [main]INFO  factory.BaseClass - clicking on Institute management button
+14:00:37.590 [main]INFO  factory.BaseClass - Clicked on institution Management button
+14:00:37.598 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+14:00:38.164 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+14:00:39.612 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+14:00:39.616 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+14:00:40.036 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+14:00:40.265 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:40.446 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:40.992 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:41.456 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:41.782 [main]INFO  factory.BaseClass - Selected Class: Class 05
+14:00:42.193 [main]INFO  factory.BaseClass - Entered Subject Name: English
+14:00:42.365 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:42.885 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:43.046 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:43.291 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:43.697 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:43.964 [main]INFO  factory.BaseClass - Selected Class: Class 05
+14:00:44.485 [main]INFO  factory.BaseClass - Entered Subject Name: Mathematics
+14:00:44.623 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:45.134 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:45.280 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:45.549 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:45.994 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:46.289 [main]INFO  factory.BaseClass - Selected Class: Class 05
+14:00:46.640 [main]INFO  factory.BaseClass - Entered Subject Name: Science
+14:00:46.819 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:47.337 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:00:47.533 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:00:47.759 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:00:48.209 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:00:48.473 [main]INFO  factory.BaseClass - Selected Class: Class 05
+14:00:49.072 [main]INFO  factory.BaseClass - Entered Subject Name: Social Science 
+14:00:49.232 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:49.232 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+14:00:49.428 [main]INFO  factory.BaseClass - Clicked on Save button
+14:00:51.384 [main]INFO  factory.BaseClass - browser initialized
+14:00:51.386 [main]INFO  factory.BaseClass - get properties file from file directory
+14:00:53.875 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+14:00:54.129 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+14:00:54.658 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+14:00:54.773 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+14:00:56.783 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+14:00:57.682 [main]INFO  factory.BaseClass - clicking on Institute management button
+14:00:58.079 [main]INFO  factory.BaseClass - Clicked on institution Management button
+14:00:58.081 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+14:00:58.489 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+14:00:59.339 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+14:00:59.348 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+14:01:01.454 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+14:01:01.546 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:01:01.726 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:01:02.127 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:01:02.578 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:01:03.023 [main]INFO  factory.BaseClass - Selected Class: Class 10
+14:01:03.445 [main]INFO  factory.BaseClass - Entered Subject Name: English
+14:01:03.601 [main]INFO  factory.BaseClass - Clicked on Save button
+14:01:04.104 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:01:04.317 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:01:04.551 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:01:04.960 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:01:05.433 [main]INFO  factory.BaseClass - Selected Class: Class 10
+14:01:06.113 [main]INFO  factory.BaseClass - Entered Subject Name: Mathematics
+14:01:06.375 [main]INFO  factory.BaseClass - Clicked on Save button
+14:01:06.893 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:01:07.085 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:01:07.386 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:01:07.819 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:01:08.343 [main]INFO  factory.BaseClass - Selected Class: Class 10
+14:01:08.804 [main]INFO  factory.BaseClass - Entered Subject Name: Science
+14:01:08.967 [main]INFO  factory.BaseClass - Clicked on Save button
+14:01:09.480 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+14:01:09.701 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+14:01:09.974 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+14:01:10.375 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+14:01:10.732 [main]INFO  factory.BaseClass - Selected Class: Class 10
+14:01:11.285 [main]INFO  factory.BaseClass - Entered Subject Name: Social Science 
+14:01:11.433 [main]INFO  factory.BaseClass - Clicked on Save button
+14:01:11.438 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+14:01:11.615 [main]INFO  factory.BaseClass - Clicked on Save button
+15:07:01.324 [main]INFO  factory.BaseClass - browser initialized
+15:07:01.335 [main]INFO  factory.BaseClass - get properties file from file directory
+15:07:04.001 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+15:07:04.406 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+15:07:05.028 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+15:07:05.157 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+15:07:07.173 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+15:07:11.244 [main]INFO  factory.BaseClass - clicking on Institute management button
+15:07:11.501 [main]INFO  factory.BaseClass - Clicked on institution Management button
+15:07:11.513 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+15:07:12.064 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+15:07:13.301 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+15:07:13.303 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+15:07:13.574 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+15:07:15.030 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+15:07:15.294 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+15:07:15.749 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+15:07:16.141 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+15:07:16.443 [main]INFO  factory.BaseClass - Selected Class: Class 04
+15:07:16.907 [main]INFO  factory.BaseClass - Entered Subject Name: English
+15:07:17.114 [main]INFO  factory.BaseClass - Clicked on Save button
+15:07:17.618 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+15:07:17.840 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+15:07:18.082 [main]INFO  factory.BaseClass - Selected Institute: Marthoma Public School
+15:07:18.585 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+15:07:21.366 [main]INFO  factory.BaseClass - browser initialized
+15:07:21.368 [main]INFO  factory.BaseClass - get properties file from file directory
+19:23:25.710 [main]INFO  factory.BaseClass - browser initialized
+19:23:25.722 [main]INFO  factory.BaseClass - get properties file from file directory
+19:23:28.738 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+19:23:29.051 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+19:23:29.627 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+19:23:29.809 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+19:23:31.833 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+19:23:32.084 [main]INFO  factory.BaseClass - clicking on Institute management button
+19:23:32.282 [main]INFO  factory.BaseClass - Clicked on institution Management button
+19:23:32.286 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+19:23:32.742 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+19:23:33.218 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+19:23:33.218 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+19:23:33.574 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+19:23:34.782 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+13:30:09.248 [main]INFO  factory.BaseClass - browser initialized
+13:30:09.254 [main]INFO  factory.BaseClass - get properties file from file directory
+13:30:10.999 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:30:22.593 [main]INFO  factory.BaseClass - browser initialized
+13:30:22.597 [main]INFO  factory.BaseClass - get properties file from file directory
+13:30:23.355 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:38:03.194 [main]INFO  factory.BaseClass - browser initialized
+13:38:03.204 [main]INFO  factory.BaseClass - get properties file from file directory
+13:38:10.331 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:38:10.518 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:38:11.008 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:38:11.116 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:38:13.142 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:38:13.501 [main]INFO  factory.BaseClass - clicking on Institute management button
+13:38:13.722 [main]INFO  factory.BaseClass - Clicked on institution Management button
+13:38:13.727 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+13:38:15.448 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+13:38:15.865 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+13:38:16.461 [main]INFO  factory.BaseClass - Select Entity from dropdown for School.
+13:38:17.547 [main]INFO  factory.BaseClass - Fetching data from Excel sheet: School at row: 0
+13:38:17.548 [main]INFO  utility.ExelUtility - Starting to read Excel data from file: C:\Users\WIIS\IdeaProjects\Gyansetu_Admin_TestCases\src\test\test-Data\Data for Users.xlsx, sheet: School
+13:38:19.655 [main]INFO  utility.ExelUtility - Total rows found (excluding header): 6
+13:38:19.726 [main]INFO  utility.ExelUtility - Row 1 processed and added to data list.
+13:38:19.726 [main]INFO  utility.ExelUtility - Row 2 processed and added to data list.
+13:38:19.730 [main]INFO  utility.ExelUtility - Row 3 processed and added to data list.
+13:38:19.732 [main]INFO  utility.ExelUtility - Row 4 processed and added to data list.
+13:38:19.734 [main]INFO  utility.ExelUtility - Row 5 processed and added to data list.
+13:38:19.736 [main]INFO  utility.ExelUtility - Row 6 processed and added to data list.
+13:38:19.738 [main]INFO  utility.ExelUtility - Excel data extraction completed successfully.
+13:38:19.738 [main]INFO  factory.BaseClass - Selecting Country: India
+13:38:20.073 [main]INFO  factory.BaseClass - Selecting State: Kerala
+13:38:20.441 [main]INFO  factory.BaseClass - Entering School Name: MotherTeresaHSS
+13:38:30.534 [main]ERROR factory.BaseClass - Error while entering data from Excel: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='MuiInputBase-input MuiOutlinedInput-input institute-name css-1x5jdmq']"}
+  (Session info: chrome=138.0.7204.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0f86dc4c9921de2e6fb0fbc0db865bbb, findElement {using=xpath, value=//input[@class='MuiInputBase-input MuiOutlinedInput-input institute-name css-1x5jdmq']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65335}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65335/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f86dc4c9921de2e6fb0fbc0db865bbb
+13:38:33.540 [main]INFO  factory.BaseClass - browser initialized
+13:38:33.566 [main]INFO  factory.BaseClass - get properties file from file directory
+13:38:42.517 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:38:42.800 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:38:44.354 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:38:44.715 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:38:46.737 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:42:50.689 [main]INFO  factory.BaseClass - browser initialized
+13:42:50.695 [main]INFO  factory.BaseClass - get properties file from file directory
+13:42:58.761 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:42:58.955 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:42:59.595 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:42:59.685 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:43:01.733 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:43:02.281 [main]INFO  factory.BaseClass - clicking on Institute management button
+13:43:02.496 [main]INFO  factory.BaseClass - Clicked on institution Management button
+13:43:02.501 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+13:43:03.115 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+13:43:03.768 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+13:43:03.770 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+13:43:04.093 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+13:43:06.537 [main]INFO  factory.BaseClass - Selecting institute from dropdown: Marthoma Public School
+13:43:06.996 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+13:43:07.266 [main]WARN  factory.BaseClass - Institute value not found in dropdown: Marthoma Public School
+13:43:12.745 [main]INFO  factory.BaseClass - browser initialized
+13:43:12.748 [main]INFO  factory.BaseClass - get properties file from file directory
+13:45:18.063 [main]INFO  factory.BaseClass - browser initialized
+13:45:18.067 [main]INFO  factory.BaseClass - get properties file from file directory
+13:45:25.260 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:45:25.449 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:45:25.992 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:45:26.110 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:45:28.123 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:45:28.397 [main]INFO  factory.BaseClass - clicking on Institute management button
+13:45:28.725 [main]INFO  factory.BaseClass - Clicked on institution Management button
+13:45:28.731 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+13:45:29.354 [main]INFO  factory.BaseClass - Click on School Button for add subject.
+13:45:29.993 [main]INFO  factory.BaseClass - Clicked on School button using JavaScriptExecutor
+13:45:29.993 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+13:45:30.267 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+13:45:32.295 [main]INFO  factory.BaseClass - Selecting institute from dropdown: MotherTeresaHSS
+13:45:32.835 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+13:45:33.472 [main]INFO  factory.BaseClass - Selected Institute: MotherTeresaHSS
+13:45:34.016 [main]INFO  factory.BaseClass - Clicked on Class dropdown
+13:45:34.594 [main]INFO  factory.BaseClass - Selected Class: Class 05
+13:45:56.701 [main]INFO  factory.BaseClass - browser initialized
+13:45:56.701 [main]INFO  factory.BaseClass - get properties file from file directory
+13:50:58.077 [main]INFO  factory.BaseClass - browser initialized
+13:50:58.089 [main]INFO  factory.BaseClass - get properties file from file directory
+13:51:05.244 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+13:51:05.421 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+13:51:05.908 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+13:51:06.039 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+13:51:08.074 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+13:51:26.671 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: First Name
+13:51:27.847 [main]INFO  factory.BaseClass - first name enter on add teacher page
+13:51:27.847 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: Last Name
+13:51:28.761 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+13:51:28.761 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: Gender
+13:51:28.761 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+13:51:28.913 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+13:51:28.961 [main]INFO  factory.BaseClass - Checking option: male
+13:51:29.007 [main]INFO  factory.BaseClass - Checking option: female
+13:51:29.024 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+13:51:29.024 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=DOB_Date, Month=DOB_Month, Year=DOM_Year
+13:51:29.024 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: DOB_Date, Month: DOB_Month, Year: DOM_Year
+13:51:29.039 [main]INFO  utility.DatePicker - Opening date picker...
+13:51:29.486 [main]INFO  utility.DatePicker - Switched to year view
+13:51:39.511 [main]WARN  utility.DatePicker - Year DOM_Year not found in list
+13:51:39.513 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+13:51:39.513 [main]INFO  factory.BaseClass - email id fetch from excel sheer: Email I'd
+13:51:39.666 [main]ERROR factory.BaseClass - Error while filling Add Teacher form: element not interactable
+  (Session info: chrome=138.0.7204.101)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed187f3e55b1e9cbdc643bd9012948f5, sendKeysToElement {value=[Ljava.lang.CharSequence;@7ca492d9, id=f.5AC863379407AD493A4D7A11D50D7A8C.d.E65C01B473F53114B9BE327910239C85.e.2298}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\WIIS\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49753}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49753/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed187f3e55b1e9cbdc643bd9012948f5)] -> xpath: //input[@data-id='email']]
+Session ID: ed187f3e55b1e9cbdc643bd9012948f5
+13:51:41.849 [main]INFO  factory.BaseClass - browser initialized
+13:51:41.857 [main]INFO  factory.BaseClass - get properties file from file directory
+16:04:38.353 [main]INFO  factory.BaseClass - browser initialized
+16:04:38.367 [main]INFO  factory.BaseClass - get properties file from file directory
+16:06:49.129 [main]INFO  factory.BaseClass - browser initialized
+16:06:49.129 [main]INFO  factory.BaseClass - get properties file from file directory
+16:07:13.245 [main]INFO  factory.BaseClass - browser initialized
+16:07:13.257 [main]INFO  factory.BaseClass - get properties file from file directory
+16:09:08.575 [main]INFO  factory.BaseClass - browser initialized
+16:09:08.586 [main]INFO  factory.BaseClass - get properties file from file directory
+16:09:22.381 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:09:22.714 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:09:23.253 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:09:23.396 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:09:25.421 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:09:25.707 [main]INFO  factory.BaseClass - clicking on Institute management button
+16:09:25.918 [main]INFO  factory.BaseClass - Clicked on institution Management button
+16:09:25.929 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+16:09:27.671 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+16:09:27.980 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+16:09:28.277 [main]INFO  factory.BaseClass - Select Entity from dropdown for collage Institute creation
+16:09:29.192 [main]INFO  utility.ExelUtility - Starting to read Excel data from file: C:\Users\WIIS\IdeaProjects\Gyansetu_Admin_TestCases\src\test\test-Data\Data for Users.xlsx, sheet: InstituteCollage
+16:09:30.367 [main]INFO  utility.ExelUtility - Total rows found (excluding header): 10
+16:09:30.439 [main]INFO  utility.ExelUtility - Row 1 processed and added to data list.
+16:09:30.439 [main]INFO  utility.ExelUtility - Row 2 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 3 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 4 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 5 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 6 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 7 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 8 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 9 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Row 10 processed and added to data list.
+16:09:30.446 [main]INFO  utility.ExelUtility - Excel data extraction completed successfully.
+16:09:30.446 [main]INFO  factory.BaseClass - Select University from dropdown: KTU(Kerala Technical University)
+16:09:30.976 [main]INFO  factory.BaseClass - Select Country from dropdown: India
+16:09:31.248 [main]INFO  factory.BaseClass - Select State from dropdown: Kerala
+16:09:31.515 [main]INFO  factory.BaseClass - Enter name on Institute text field: CEAL
+16:18:45.780 [main]INFO  factory.BaseClass - browser initialized
+16:18:45.785 [main]INFO  factory.BaseClass - get properties file from file directory
+16:18:55.204 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:18:55.535 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:18:56.230 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:18:56.377 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:18:58.395 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:18:58.707 [main]INFO  factory.BaseClass - clicking on Institute management button
+16:18:58.954 [main]INFO  factory.BaseClass - Clicked on institution Management button
+16:18:58.957 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+16:19:01.425 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+16:19:02.071 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+16:19:02.614 [main]INFO  factory.BaseClass - Select Entity from dropdown for collage Institute creation
+16:19:03.704 [main]INFO  utility.ExelUtility - Starting to read Excel data from file: C:\Users\WIIS\IdeaProjects\Gyansetu_Admin_TestCases\src\test\test-Data\Data for Users.xlsx, sheet: InstituteCollage
+16:19:06.555 [main]INFO  utility.ExelUtility - Total rows found (excluding header): 10
+16:19:06.661 [main]INFO  utility.ExelUtility - Row 1 processed and added to data list.
+16:19:06.663 [main]INFO  utility.ExelUtility - Row 2 processed and added to data list.
+16:19:06.667 [main]INFO  utility.ExelUtility - Row 3 processed and added to data list.
+16:19:06.669 [main]INFO  utility.ExelUtility - Row 4 processed and added to data list.
+16:19:06.671 [main]INFO  utility.ExelUtility - Row 5 processed and added to data list.
+16:19:06.671 [main]INFO  utility.ExelUtility - Row 6 processed and added to data list.
+16:19:06.673 [main]INFO  utility.ExelUtility - Row 7 processed and added to data list.
+16:19:06.673 [main]INFO  utility.ExelUtility - Row 8 processed and added to data list.
+16:19:06.673 [main]INFO  utility.ExelUtility - Row 9 processed and added to data list.
+16:19:06.673 [main]INFO  utility.ExelUtility - Row 10 processed and added to data list.
+16:19:06.677 [main]INFO  utility.ExelUtility - Excel data extraction completed successfully.
+16:19:06.677 [main]INFO  factory.BaseClass - Select University from dropdown: KTU(Kerala Technical University)
+16:19:07.528 [main]INFO  factory.BaseClass - Select Country from dropdown: India
+16:19:08.061 [main]INFO  factory.BaseClass - Select State from dropdown: Kerala
+16:19:08.403 [main]INFO  factory.BaseClass - Enter name on Institute text field: CEAL
+16:19:08.865 [main]INFO  factory.BaseClass - Enter the address on text field: Attingal
+16:19:09.505 [main]INFO  factory.BaseClass - Enter the Email id on text field: ceattingal223@yopmail.com
+16:19:11.084 [main]INFO  factory.BaseClass - Enter the mobile number on text field: 9872677711
+16:19:11.697 [main]INFO  factory.BaseClass - Enter the City Name on the text field: Kollam
+16:19:12.015 [main]INFO  factory.BaseClass - Enter the District Name on the text field: Kollam
+16:19:12.433 [main]INFO  factory.BaseClass - Enter the Pincode Number on the text field: 876678
+16:19:12.938 [main]INFO  factory.BaseClass - Enter the Website on the text field: https://www.cealm.com
+16:19:14.489 [main]INFO  factory.BaseClass - Click on Save button institution.
+16:19:14.980 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+16:19:18.749 [main]INFO  factory.BaseClass - Alert not displayed, validating textfields.
+16:19:33.164 [main]INFO  factory.BaseClass - browser initialized
+16:19:33.164 [main]INFO  factory.BaseClass - get properties file from file directory
+16:19:44.095 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+16:19:44.433 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+16:19:45.095 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+16:19:45.222 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+16:19:47.245 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+16:19:47.452 [main]INFO  factory.BaseClass - clicking on Institute management button
+16:19:47.690 [main]INFO  factory.BaseClass - Clicked on institution Management button
+16:19:47.690 [main]INFO  factory.BaseClass - Click on course in sidebar
+16:19:50.379 [main]INFO  factory.BaseClass - Click on ADD COURSE button
+16:19:50.644 [main]INFO  factory.BaseClass - Verifying the Add Course page is displayed.
+16:19:51.033 [main]INFO  factory.BaseClass - Click on the Institute DropDown and Select one of them by Institute
+16:19:51.758 [main]INFO  factory.BaseClass - Click on the Course DropDown and Select one of them by Course Name
+16:19:54.141 [main]INFO  factory.BaseClass - browser initialized
+16:19:54.143 [main]INFO  factory.BaseClass - get properties file from file directory
+10:08:23.689 [main]INFO  factory.BaseClass - browser initialized
+10:08:23.699 [main]INFO  factory.BaseClass - get properties file from file directory
+10:08:40.312 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:08:40.516 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:08:41.079 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:08:41.232 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:08:43.259 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:08:43.510 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:08:43.778 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:08:43.779 [main]INFO  factory.BaseClass - Click on Institute in sidebar for add institute data.
+10:08:45.446 [main]INFO  factory.BaseClass - Click on ADD INSTITUTE Button.
+10:08:45.695 [main]INFO  factory.BaseClass - Check add institute page is displayed or not
+10:08:45.965 [main]INFO  factory.BaseClass - Select Entity from dropdown for collage Institute creation
+10:08:46.423 [main]INFO  utility.ExelUtility - Starting to read Excel data from file: C:\Users\WIIS\IdeaProjects\Gyansetu_Admin_TestCases\src\test\test-Data\Data for Users.xlsx, sheet: InstituteCollage
+10:08:47.482 [main]INFO  utility.ExelUtility - Total rows found (excluding header): 10
+10:08:47.526 [main]INFO  utility.ExelUtility - Row 1 processed and added to data list.
+10:08:47.526 [main]INFO  utility.ExelUtility - Row 2 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 3 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 4 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 5 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 6 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 7 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 8 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 9 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Row 10 processed and added to data list.
+10:08:47.538 [main]INFO  utility.ExelUtility - Excel data extraction completed successfully.
+10:08:47.538 [main]INFO  factory.BaseClass - Select University from dropdown: KTU(Kerala Technical University)
+10:08:48.067 [main]INFO  factory.BaseClass - Select Country from dropdown: India
+10:08:48.407 [main]INFO  factory.BaseClass - Select State from dropdown: Kerala
+10:08:48.704 [main]INFO  factory.BaseClass - Enter name on Institute text field: CEAL
+10:08:49.072 [main]INFO  factory.BaseClass - Enter the address on text field: Attingal
+10:08:49.562 [main]INFO  factory.BaseClass - Enter the Email id on text field: ceattingal223@yopmail.com
+10:08:50.628 [main]INFO  factory.BaseClass - Enter the mobile number on text field: 9872677711
+10:08:51.146 [main]INFO  factory.BaseClass - Enter the City Name on the text field: Kollam
+10:08:51.467 [main]INFO  factory.BaseClass - Enter the District Name on the text field: Kollam
+10:08:51.864 [main]INFO  factory.BaseClass - Enter the Pincode Number on the text field: 876678
+10:08:52.313 [main]INFO  factory.BaseClass - Enter the Website on the text field: https://www.cealm.com
+10:08:53.432 [main]INFO  factory.BaseClass - Click on Save button institution.
+10:08:53.592 [main]INFO  factory.BaseClass - Verifying if toaster message is displayed or not.
+10:09:06.439 [main]INFO  factory.BaseClass - browser initialized
+10:09:06.457 [main]INFO  factory.BaseClass - get properties file from file directory
+10:09:14.558 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:09:14.710 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:09:15.164 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:09:15.302 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:09:17.309 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:09:18.489 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:09:22.110 [main]INFO  factory.BaseClass - browser initialized
+10:09:22.112 [main]INFO  factory.BaseClass - get properties file from file directory
+10:09:28.077 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:09:28.231 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:09:28.763 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:09:28.897 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:09:30.911 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:09:31.171 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:09:31.378 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:09:31.383 [main]INFO  factory.BaseClass - Click on course in sidebar
+10:09:34.066 [main]INFO  factory.BaseClass - Click on ADD COURSE button
+10:09:34.523 [main]INFO  factory.BaseClass - Verifying the Add Course page is displayed.
+10:09:35.164 [main]INFO  factory.BaseClass - Click on the Institute DropDown and Select one of them by CEAL
+10:09:35.777 [main]INFO  factory.BaseClass - Click on the Course DropDown and Select one of them by Electronics and Communication Engineering
+10:09:36.969 [main]INFO  factory.BaseClass - Select Duration from DropDown 4
+10:09:37.409 [main]INFO  factory.BaseClass - Click on Save Button in Add Course page.
+10:09:38.807 [main]INFO  factory.BaseClass - Toaster message received: Course created successfully
+10:09:41.197 [main]INFO  factory.BaseClass - browser initialized
+10:09:41.200 [main]INFO  factory.BaseClass - get properties file from file directory
+10:09:49.132 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:09:49.422 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:09:50.047 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:09:50.190 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:09:52.198 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:09:52.485 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:09:52.736 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:09:52.738 [main]INFO  factory.BaseClass - Click on course in sidebar
+10:09:55.333 [main]INFO  factory.BaseClass - Click on ADD COURSE button
+10:09:55.567 [main]INFO  factory.BaseClass - Verifying the Add Course page is displayed.
+10:09:55.832 [main]INFO  factory.BaseClass - Click on the Institute DropDown and Select one of them by CEAL
+10:09:56.575 [main]INFO  factory.BaseClass - Click on the Course DropDown and Select one of them by Electrical and Electronics Engineering
+10:09:57.709 [main]INFO  factory.BaseClass - Select Duration from DropDown 4
+10:09:58.194 [main]INFO  factory.BaseClass - Click on Save Button in Add Course page.
+10:09:59.611 [main]INFO  factory.BaseClass - Toaster message received: Course already exists in this institution, but either deactivated or deleted
+10:10:01.787 [main]INFO  factory.BaseClass - browser initialized
+10:10:01.789 [main]INFO  factory.BaseClass - get properties file from file directory
+10:10:17.722 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:10:17.882 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:10:18.415 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:10:18.547 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:10:20.564 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:10:20.790 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:10:20.977 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:10:20.979 [main]INFO  factory.BaseClass - Click on course in sidebar
+10:10:23.447 [main]INFO  factory.BaseClass - Click on ADD COURSE button
+10:10:23.664 [main]INFO  factory.BaseClass - Verifying the Add Course page is displayed.
+10:10:23.917 [main]INFO  factory.BaseClass - Click on the Institute DropDown and Select one of them by CEAL
+10:10:24.541 [main]INFO  factory.BaseClass - Click on the Course DropDown and Select one of them by Mechanicam Engineering
+10:10:25.256 [main]INFO  factory.BaseClass - Select Duration from DropDown 4
+10:10:25.720 [main]INFO  factory.BaseClass - Click on Save Button in Add Course page.
+10:10:27.176 [main]INFO  factory.BaseClass - Toaster message received: Course created successfully
+10:10:29.552 [main]INFO  factory.BaseClass - browser initialized
+10:10:29.554 [main]INFO  factory.BaseClass - get properties file from file directory
+10:10:35.949 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:10:36.112 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:10:36.641 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:10:36.788 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:10:38.798 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:10:39.045 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:10:39.232 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:10:39.233 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:10:39.657 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:10:40.172 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:10:40.181 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:10:40.294 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:10:40.461 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:10:40.694 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:10:41.235 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:10:41.237 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:10:41.665 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:10:42.069 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:10:42.073 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:10:42.411 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:10:42.758 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:10:42.758 [main]INFO  factory.BaseClass - Enter the Subject Name: Basic Electronics
+10:11:05.097 [main]INFO  factory.BaseClass - browser initialized
+10:11:05.101 [main]INFO  factory.BaseClass - get properties file from file directory
+10:11:11.155 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:11:11.377 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:11:11.954 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:11:12.131 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:11:14.153 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:11:14.341 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:11:14.591 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:11:14.593 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:11:15.048 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:11:15.674 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:11:15.680 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:11:15.728 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:11:15.938 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:11:16.181 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:11:16.811 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:11:16.811 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:11:17.213 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:11:17.636 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:11:17.638 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:11:18.048 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:11:18.406 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:11:18.408 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING PHYSICS
+10:11:40.526 [main]INFO  factory.BaseClass - browser initialized
+10:11:40.530 [main]INFO  factory.BaseClass - get properties file from file directory
+10:11:46.179 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:11:46.355 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:11:46.879 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:11:47.047 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:11:49.055 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:11:49.726 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:11:50.013 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:11:50.018 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:11:50.505 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:11:51.175 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:11:51.175 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:11:51.280 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:11:51.388 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:11:51.621 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:11:52.450 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:11:52.450 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:11:52.867 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:11:53.221 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:11:53.225 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:11:53.765 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:11:54.122 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:11:54.122 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING CHEMISTRY 
+10:12:20.017 [main]INFO  factory.BaseClass - browser initialized
+10:12:20.020 [main]INFO  factory.BaseClass - get properties file from file directory
+10:12:27.161 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:12:27.336 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:12:27.812 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:12:27.939 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:12:29.950 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:12:30.305 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:12:30.571 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:12:30.579 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:12:31.081 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:12:32.135 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:12:32.139 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:12:32.394 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:12:33.005 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:12:33.590 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:12:34.209 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:12:34.209 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:12:34.988 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:12:35.700 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:12:35.700 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:12:36.080 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:12:36.448 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:12:36.448 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING MECHANICS 
+10:19:49.861 [main]INFO  factory.BaseClass - browser initialized
+10:19:49.870 [main]INFO  factory.BaseClass - get properties file from file directory
+10:19:57.799 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:19:58.087 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:19:58.863 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:19:59.077 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:20:01.096 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:20:01.676 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:20:02.008 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:20:02.011 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:20:02.709 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:20:04.464 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:20:04.524 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:20:04.676 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:20:06.567 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:20:06.887 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:20:07.360 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:20:07.360 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:20:07.772 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:20:08.161 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:20:08.161 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:20:08.569 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:20:08.992 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:20:08.992 [main]INFO  factory.BaseClass - Enter the Subject Name: Basic Electronics
+10:20:09.832 [main]INFO  factory.BaseClass - Entered Subject Name: Basic Electronics
+10:20:10.162 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:10.165 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:20:10.599 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:11.707 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:20:11.707 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:20:13.904 [main]INFO  factory.BaseClass - browser initialized
+10:20:13.906 [main]INFO  factory.BaseClass - get properties file from file directory
+10:20:20.433 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:20:20.717 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:20:21.535 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:20:21.738 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:20:23.751 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:20:24.134 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:20:24.517 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:20:24.522 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:20:25.237 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:20:26.317 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:20:26.319 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:20:26.485 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:20:26.800 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:20:27.111 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:20:27.615 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:20:27.615 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:20:28.027 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:20:28.477 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:20:28.477 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:20:29.003 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:20:29.456 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:20:29.460 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING PHYSICS
+10:20:30.551 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING PHYSICS
+10:20:30.831 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:30.836 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:20:31.258 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:32.351 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:20:32.351 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:20:34.930 [main]INFO  factory.BaseClass - browser initialized
+10:20:34.930 [main]INFO  factory.BaseClass - get properties file from file directory
+10:20:41.440 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:20:41.680 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:20:42.409 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:20:42.647 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:20:44.655 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:20:45.015 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:20:45.309 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:20:45.310 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:20:46.091 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:20:47.304 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:20:47.306 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:20:47.453 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:20:47.878 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:20:48.248 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:20:48.719 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:20:48.720 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:20:49.121 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:20:49.604 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:20:49.604 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:20:50.115 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:20:50.572 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:20:50.574 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING CHEMISTRY 
+10:20:51.807 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING CHEMISTRY 
+10:20:52.108 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:52.112 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:20:52.668 [main]INFO  factory.BaseClass - Clicked on Save button
+10:20:53.767 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:20:53.773 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:20:56.367 [main]INFO  factory.BaseClass - browser initialized
+10:20:56.379 [main]INFO  factory.BaseClass - get properties file from file directory
+10:21:04.267 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:21:04.547 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:21:05.343 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:21:05.574 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:21:07.594 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:21:08.010 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:21:08.371 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:21:08.373 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:21:09.138 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:21:09.935 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:21:09.940 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:21:10.032 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:21:10.263 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:21:10.574 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:21:11.206 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:21:11.208 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:21:11.747 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:21:12.248 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:21:12.249 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:21:12.665 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:21:13.094 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:21:13.094 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING MECHANICS 
+10:21:14.522 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING MECHANICS 
+10:21:14.824 [main]INFO  factory.BaseClass - Clicked on Save button
+10:21:14.827 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:21:15.252 [main]INFO  factory.BaseClass - Clicked on Save button
+10:21:16.356 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:21:16.356 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:21:19.385 [main]INFO  factory.BaseClass - browser initialized
+10:21:19.393 [main]INFO  factory.BaseClass - get properties file from file directory
+10:21:25.940 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:21:26.277 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:21:27.280 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:21:27.474 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:21:29.485 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:21:30.182 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:21:30.658 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:21:30.661 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:21:31.506 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:21:33.490 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:21:33.701 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:21:34.108 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:21:34.444 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:21:34.954 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:21:35.596 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:21:35.600 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:21:36.278 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:21:36.735 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:21:36.735 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:21:37.168 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:21:37.656 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:21:37.656 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING GRAPHICS 
+10:21:38.776 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING GRAPHICS 
+10:21:39.114 [main]INFO  factory.BaseClass - Clicked on Save button
+10:21:39.119 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:21:39.547 [main]INFO  factory.BaseClass - Clicked on Save button
+10:21:40.638 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:21:40.638 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:21:43.047 [main]INFO  factory.BaseClass - browser initialized
+10:21:43.050 [main]INFO  factory.BaseClass - get properties file from file directory
+10:21:49.320 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:21:49.756 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:21:52.841 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:21:53.204 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:21:55.231 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:21:55.667 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:21:55.899 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:21:55.902 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:21:56.589 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:21:57.819 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:21:57.822 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:21:57.958 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:21:58.114 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:21:58.324 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:21:58.828 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:21:58.828 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:21:59.272 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:21:59.669 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:21:59.669 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:22:00.087 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:22:00.478 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:22:00.478 [main]INFO  factory.BaseClass - Enter the Subject Name: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING
+10:22:02.503 [main]INFO  factory.BaseClass - Entered Subject Name: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING
+10:22:02.961 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:02.964 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:22:03.456 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:04.577 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:22:04.577 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:22:06.822 [main]INFO  factory.BaseClass - browser initialized
+10:22:06.825 [main]INFO  factory.BaseClass - get properties file from file directory
+10:22:15.802 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:22:16.666 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:22:17.280 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:22:17.527 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:22:19.541 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:22:20.063 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:22:20.480 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:22:20.482 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:22:21.315 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:22:23.262 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:22:23.266 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:22:23.416 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:22:23.552 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:22:23.914 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:22:24.463 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:22:24.463 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:22:25.013 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:22:25.449 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:22:25.449 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:22:25.881 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:22:26.271 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:22:26.271 [main]INFO  factory.BaseClass - Enter the Subject Name: BASICS OF CIVIL & MECHANICAL ENGINEERING
+10:22:27.683 [main]INFO  factory.BaseClass - Entered Subject Name: BASICS OF CIVIL & MECHANICAL ENGINEERING
+10:22:28.010 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:28.012 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:22:28.391 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:29.485 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:22:29.485 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:22:31.790 [main]INFO  factory.BaseClass - browser initialized
+10:22:31.792 [main]INFO  factory.BaseClass - get properties file from file directory
+10:22:38.296 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:22:38.629 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:22:39.734 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:22:39.988 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:22:41.994 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:22:42.281 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:22:49.356 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:22:49.358 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:22:49.963 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:22:50.646 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:22:50.648 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:22:50.782 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:22:50.968 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:22:51.267 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:22:51.948 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:22:51.950 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:22:52.365 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:22:52.789 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:22:52.792 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:22:53.236 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:22:53.614 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:22:53.614 [main]INFO  factory.BaseClass - Enter the Subject Name: PROFESSIONAL COMMUNICATION 
+10:22:54.709 [main]INFO  factory.BaseClass - Entered Subject Name: PROFESSIONAL COMMUNICATION 
+10:22:54.993 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:54.997 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:22:55.442 [main]INFO  factory.BaseClass - Clicked on Save button
+10:22:56.548 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:22:56.548 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:22:59.150 [main]INFO  factory.BaseClass - browser initialized
+10:22:59.150 [main]INFO  factory.BaseClass - get properties file from file directory
+10:23:06.149 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:23:06.498 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:23:07.318 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:23:07.514 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:23:09.525 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:23:10.430 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:23:10.852 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:23:10.856 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:23:11.504 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:23:12.296 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:23:12.298 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:23:12.429 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:23:12.627 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:23:12.912 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:23:13.475 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:23:13.476 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:23:13.884 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:23:14.320 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:23:14.322 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:23:14.728 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:23:15.172 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:23:15.172 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING PHYSICS LAB 
+10:23:16.188 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING PHYSICS LAB 
+10:23:16.504 [main]INFO  factory.BaseClass - Clicked on Save button
+10:23:16.507 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:23:16.914 [main]INFO  factory.BaseClass - Clicked on Save button
+10:23:18.025 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:23:18.025 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:23:20.222 [main]INFO  factory.BaseClass - browser initialized
+10:23:20.223 [main]INFO  factory.BaseClass - get properties file from file directory
+10:23:26.717 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:23:27.006 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:23:27.807 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:23:28.101 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:23:30.118 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:23:30.491 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:23:30.701 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:23:30.703 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:23:31.515 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:23:33.751 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:23:33.782 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:23:34.764 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:23:34.984 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:23:35.326 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:23:35.947 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:23:35.947 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:23:36.491 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:23:37.002 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:23:37.004 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 1
+10:23:37.526 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:23:38.016 [main]INFO  factory.BaseClass - Selected Semester: Semester 1
+10:23:38.016 [main]INFO  factory.BaseClass - Enter the Subject Name: ENGINEERING CHEMISTRY LAB 
+10:23:39.340 [main]INFO  factory.BaseClass - Entered Subject Name: ENGINEERING CHEMISTRY LAB 
+10:23:39.713 [main]INFO  factory.BaseClass - Clicked on Save button
+10:23:39.718 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:23:40.356 [main]INFO  factory.BaseClass - Clicked on Save button
+10:23:41.470 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:23:41.470 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:23:44.646 [main]INFO  factory.BaseClass - browser initialized
+10:23:44.646 [main]INFO  factory.BaseClass - get properties file from file directory
+10:23:51.014 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:23:51.352 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:23:52.301 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:23:52.580 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:23:54.589 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:23:54.866 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:23:55.165 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:23:55.169 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:23:55.918 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:23:57.230 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:23:57.231 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:23:57.425 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:23:57.554 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:23:58.229 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:23:58.787 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:23:58.789 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:23:59.250 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:23:59.675 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:23:59.675 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 2
+10:24:00.132 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:24:00.626 [main]INFO  factory.BaseClass - Selected Semester: Semester 2
+10:24:00.626 [main]INFO  factory.BaseClass - Enter the Subject Name: Programming in C
+10:24:01.881 [main]INFO  factory.BaseClass - Entered Subject Name: Programming in C
+10:24:02.271 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:02.274 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:24:02.848 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:03.953 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:24:03.962 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:24:06.578 [main]INFO  factory.BaseClass - browser initialized
+10:24:06.578 [main]INFO  factory.BaseClass - get properties file from file directory
+10:24:13.021 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:24:13.354 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:24:14.376 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:24:14.588 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:24:16.594 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:24:17.099 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:24:21.640 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:24:21.669 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:24:22.397 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:24:23.053 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:24:23.055 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:24:23.167 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:24:23.372 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:24:23.667 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:24:24.337 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:24:24.337 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:24:24.849 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:24:25.266 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:24:25.266 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 2
+10:24:25.689 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:24:26.127 [main]INFO  factory.BaseClass - Selected Semester: Semester 2
+10:24:26.130 [main]INFO  factory.BaseClass - Enter the Subject Name: Network Theory
+10:24:26.939 [main]INFO  factory.BaseClass - Entered Subject Name: Network Theory
+10:24:27.311 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:27.314 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:24:27.816 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:28.922 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:24:28.922 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:24:31.587 [main]INFO  factory.BaseClass - browser initialized
+10:24:31.589 [main]INFO  factory.BaseClass - get properties file from file directory
+10:24:41.535 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:24:41.833 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:24:42.725 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:24:42.976 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:24:44.982 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:24:45.318 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:24:45.647 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:24:45.647 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:24:46.418 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:24:47.421 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:24:47.427 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:24:47.541 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:24:47.655 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:24:48.001 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:24:48.894 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:24:48.894 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:24:49.396 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:24:49.814 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:24:49.816 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 2
+10:24:50.255 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:24:50.704 [main]INFO  factory.BaseClass - Selected Semester: Semester 2
+10:24:50.704 [main]INFO  factory.BaseClass - Enter the Subject Name: Mathematics 2
+10:24:51.381 [main]INFO  factory.BaseClass - Entered Subject Name: Mathematics 2
+10:24:51.723 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:51.724 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:24:52.193 [main]INFO  factory.BaseClass - Clicked on Save button
+10:24:53.283 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:24:53.283 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:24:55.711 [main]INFO  factory.BaseClass - browser initialized
+10:24:55.715 [main]INFO  factory.BaseClass - get properties file from file directory
+10:25:02.070 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:25:02.295 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:25:03.104 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:25:03.357 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:25:05.366 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:25:05.844 [main]INFO  factory.BaseClass - clicking on Institute management button
+10:25:06.107 [main]INFO  factory.BaseClass - Clicked on institution Management button
+10:25:06.107 [main]INFO  factory.BaseClass - Click on Subject Button in sidebar
+10:25:06.871 [main]INFO  factory.BaseClass - Click on ADD SUBJECT button
+10:25:07.712 [main]INFO  factory.BaseClass - Clicked on 'Add Subject' button
+10:25:07.716 [main]INFO  factory.BaseClass - Verifying the add subject page is displayed
+10:25:07.838 [main]INFO  factory.BaseClass - Subject page title displayed: true
+10:25:07.973 [main]INFO  factory.BaseClass - Selecting institute from dropdown: CEAL
+10:25:08.261 [main]INFO  factory.BaseClass - Clicked on Institute dropdown
+10:25:09.173 [main]INFO  factory.BaseClass - Selected Institute: CEAL
+10:25:09.175 [main]INFO  factory.BaseClass - Click on course dropdown and select one of them by Electronics and Communication Engineering
+10:25:09.717 [main]INFO  factory.BaseClass - Clicked on Course dropdown
+10:25:10.175 [main]INFO  factory.BaseClass - Selected Course: Electronics and Communication Engineering
+10:25:10.176 [main]INFO  factory.BaseClass - Select the Semester from dropdown: Semester 2
+10:25:10.657 [main]INFO  factory.BaseClass - Clicked on Semester dropdown
+10:25:11.159 [main]INFO  factory.BaseClass - Selected Semester: Semester 2
+10:25:11.159 [main]INFO  factory.BaseClass - Enter the Subject Name: IT Workshop
+10:25:11.816 [main]INFO  factory.BaseClass - Entered Subject Name: IT Workshop
+10:25:12.226 [main]INFO  factory.BaseClass - Clicked on Save button
+10:25:12.239 [main]INFO  factory.BaseClass - Click on Save Button in Subject Page.
+10:25:12.670 [main]INFO  factory.BaseClass - Clicked on Save button
+10:25:13.779 [main]INFO  factory.BaseClass - Toast message captured: College subject created successfully
+10:25:13.779 [main]INFO  factory.BaseClass - Toaster message received: College subject created successfully
+10:25:16.146 [main]INFO  factory.BaseClass - browser initialized
+10:25:16.148 [main]INFO  factory.BaseClass - get properties file from file directory
+10:25:23.557 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:25:23.975 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:25:24.853 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:25:25.159 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:25:27.173 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:25:35.768 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Kinnamma B
+10:25:40.330 [main]INFO  factory.BaseClass - first name enter on add teacher page
+10:25:40.331 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: R
+10:25:40.992 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+10:25:40.994 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: male
+10:25:40.994 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+10:25:41.325 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+10:25:41.415 [main]INFO  factory.BaseClass - Checking option: male
+10:25:41.441 [main]INFO  factory.BaseClass - Selecting gender: male
+10:25:41.811 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+10:25:41.826 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=11, Month=June, Year=1996
+10:25:41.826 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 11, Month: June, Year: 1996
+10:25:41.847 [main]INFO  utility.DatePicker - Opening date picker...
+10:25:42.631 [main]INFO  utility.DatePicker - Switched to year view
+10:25:45.286 [main]INFO  utility.DatePicker - Year 1996 selected
+10:25:45.801 [main]INFO  utility.DatePicker - Clicked previous month
+10:25:46.203 [main]INFO  utility.DatePicker - Clicked previous month
+10:25:46.304 [main]INFO  utility.DatePicker - Target month/year visible: JUNE 1996
+10:25:47.063 [main]INFO  utility.DatePicker - Date 11 selected
+10:25:47.063 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+10:25:47.065 [main]INFO  factory.BaseClass - email id fetch from excel sheer: kinnamma02@yopmail.com
+10:25:51.872 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+10:25:51.872 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566644
+10:25:53.389 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+10:25:53.389 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+10:25:54.368 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+10:25:54.368 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+10:25:54.671 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+10:25:54.671 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: College
+10:25:55.473 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+10:25:55.473 [main]INFO  factory.BaseClass - University Name fetch from excel sheer: KTU(Kerala Technical University)
+10:25:56.377 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+10:25:56.377 [main]INFO  factory.BaseClass - College name fetch from excel sheer: CEAL
+10:25:57.238 [main]INFO  factory.BaseClass - Course fetch from excel sheet: Electronics and Communication Engineering
+10:25:58.020 [main]INFO  factory.BaseClass - Semester is selected by excel sheet: 1
+10:25:58.882 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING Basic Electronics
+10:25:59.319 [main]INFO  factory.BaseClass - Subject dropdown clicked....
+10:25:59.581 [main]WARN  factory.BaseClass - Subject not found in dropdown: Basic Electronics
+10:25:59.783 [main]WARN  factory.BaseClass - Subject not found in dropdown: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING
+10:25:59.950 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+10:25:59.951 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+10:26:01.348 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+10:26:01.348 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+10:26:01.781 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+10:26:01.781 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+10:26:02.165 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+10:26:03.112 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+10:26:04.448 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+10:26:05.552 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page
+10:26:09.083 [main]INFO  factory.BaseClass - browser initialized
+10:26:09.085 [main]INFO  factory.BaseClass - get properties file from file directory
+10:26:16.825 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:26:17.086 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:26:17.875 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:26:18.161 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:26:20.169 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:43:32.742 [main]INFO  factory.BaseClass - browser initialized
+10:43:32.749 [main]INFO  factory.BaseClass - get properties file from file directory
+10:43:38.929 [main]INFO  factory.BaseClass - Click on HomePage Sign-In button
+10:43:39.144 [main]INFO  factory.BaseClass - Entering login credentials from properties file
+10:43:39.553 [main]INFO  factory.BaseClass - Clicking on Sign-In button
+10:43:39.676 [main]INFO  factory.BaseClass - Initializing Admin Dashboard page
+10:43:41.687 [main]INFO  factory.BaseClass - Clicking on Master Management in sidebar
+10:43:50.784 [main]INFO  factory.BaseClass - fisrt name fetch from excel sheet: Vallap N
+10:43:51.303 [main]INFO  factory.BaseClass - first name enter on add teacher page
+10:43:51.303 [main]INFO  factory.BaseClass - Last name fetched from Excel sheet: C
+10:43:51.473 [main]INFO  factory.BaseClass - Last name entered on Add Teacher page
+10:43:51.474 [main]INFO  factory.BaseClass - Gender fetched from Excel sheet: female
+10:43:51.475 [main]INFO  factory.BaseClass - Clicking on gender dropdown element.
+10:43:51.684 [main]INFO  factory.BaseClass - Fetching gender options from the dropdown.
+10:43:51.758 [main]INFO  factory.BaseClass - Checking option: male
+10:43:51.797 [main]INFO  factory.BaseClass - Checking option: female
+10:43:51.819 [main]INFO  factory.BaseClass - Selecting gender: female
+10:43:52.056 [main]INFO  factory.BaseClass - Gender selected on Add Teacher page
+10:43:52.060 [main]INFO  factory.BaseClass - DOB fetched from Excel sheet: Date=22, Month=June, Year=1991
+10:43:52.061 [main]INFO  factory.BaseClass - Passing date values to the date picker - Date: 22, Month: June, Year: 1991
+10:43:52.067 [main]INFO  utility.DatePicker - Opening date picker...
+10:43:52.461 [main]INFO  utility.DatePicker - Switched to year view
+10:43:53.508 [main]INFO  utility.DatePicker - Year 1991 selected
+10:43:53.750 [main]INFO  utility.DatePicker - Clicked previous month
+10:43:53.939 [main]INFO  utility.DatePicker - Clicked previous month
+10:43:53.965 [main]INFO  utility.DatePicker - Target month/year visible: JUNE 1991
+10:43:54.448 [main]INFO  utility.DatePicker - Date 22 selected
+10:43:54.449 [main]INFO  factory.BaseClass - DOB selected on Add Teacher page
+10:43:54.449 [main]INFO  factory.BaseClass - email id fetch from excel sheer: vallapadam02@yopmail.com
+10:43:56.582 [main]INFO  factory.BaseClass - Email id entered on Add Teacher page
+10:43:56.582 [main]INFO  factory.BaseClass - mobile number fetch from excel sheer: 7654566633
+10:43:57.195 [main]INFO  factory.BaseClass - Mobile Number entered on Add Teacher page
+10:43:57.195 [main]INFO  factory.BaseClass - qualification fetch from excel sheer: B.Tech
+10:43:57.702 [main]INFO  factory.BaseClass - Qualification entered on Add Teacher page
+10:43:57.702 [main]INFO  factory.BaseClass - experience fetch from excel sheer: 4
+10:43:57.912 [main]INFO  factory.BaseClass - Experience entered on Add Teacher page
+10:43:57.912 [main]INFO  factory.BaseClass - Entity fetch from excel sheer: College
+10:43:58.352 [main]INFO  factory.BaseClass - Entity selected on Add Teacher page
+10:43:58.353 [main]INFO  factory.BaseClass - University Name fetch from excel sheer: KTU(Kerala Technical University)
+10:43:58.938 [main]INFO  factory.BaseClass - School Name entered on Add Teacher page
+10:43:58.939 [main]INFO  factory.BaseClass - College name fetch from excel sheer: CEAL
+10:43:59.534 [main]INFO  factory.BaseClass - Course fetch from excel sheet: Electronics and Communication Engineering
+10:44:00.123 [main]INFO  factory.BaseClass - Semester is selected by excel sheet: 1
+10:44:00.675 [main]INFO  factory.BaseClass - Subjects fetch from excel sheet: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING Basic Electronics
+10:44:01.022 [main]INFO  factory.BaseClass - Subject dropdown clicked....
+10:44:01.198 [main]WARN  factory.BaseClass - Subject not found in dropdown: Basic Electronics
+10:44:01.305 [main]WARN  factory.BaseClass - Subject not found in dropdown: BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING
+10:44:01.335 [main]INFO  factory.BaseClass - Subject selected on Add Teacher page
+10:44:01.335 [main]INFO  factory.BaseClass - Address fetch from excel sheer: SL puram
+10:44:02.194 [main]INFO  factory.BaseClass - Address entered on Add Teacher page
+10:44:02.194 [main]INFO  factory.BaseClass - Country fetch from excel sheer: India
+10:44:02.414 [main]INFO  factory.BaseClass - Country selected on Add Teacher page
+10:44:02.415 [main]INFO  factory.BaseClass - State fetch from excel sheer: Kerala
+10:44:02.777 [main]INFO  factory.BaseClass - State selected on Add Teacher page
+10:44:03.203 [main]INFO  factory.BaseClass - City entered on Add Teacher page Alapy
+10:44:03.779 [main]INFO  factory.BaseClass - District entered on Add Teacher page: Alappuzha
+10:44:04.257 [main]INFO  factory.BaseClass - pincode entered on Add Teacher page

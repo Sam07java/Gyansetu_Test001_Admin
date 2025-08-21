@@ -60,13 +60,19 @@
         <version>2.20.0</version>
     </dependency>
 
-
-    <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter -->
+    <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
     <dependency>
-        <groupId>tech.grasshopper</groupId>
-        <artifactId>extentreports-cucumber7-adapter</artifactId>
-        <version>1.14.0</version>
+        <groupId>com.aventstack</groupId>
+        <artifactId>extentreports</artifactId>
+        <version>5.1.2</version>
     </dependency>
+
+<!--    &lt;!&ndash; https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter &ndash;&gt;-->
+<!--    <dependency>-->
+<!--        <groupId>tech.grasshopper</groupId>-->
+<!--        <artifactId>extentreports-cucumber7-adapter</artifactId>-->
+<!--        <version>1.14.0</version>-->
+<!--    </dependency>-->
 
 
 </dependencies>

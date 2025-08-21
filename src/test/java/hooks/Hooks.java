@@ -2,10 +2,7 @@ package hooks;
 
 import factory.BaseClass;
 import io.cucumber.java.*;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverException;
+import org.openqa.selenium.*;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
@@ -19,16 +16,16 @@ public class Hooks {
    public static SoftAssert softAssert;
     @Before
    // @BeforeAll
-    public static void setup() throws IOException {
+    public static void setup() throws IOException, InterruptedException {
+        driver= BaseClass.initlizeBrowser();
+        BaseClass.getLogger().info("browser initialized");
 
-    driver= BaseClass.initlizeBrowser();
-    BaseClass.getLogger().info("browser initialized");
-      //  logger.info("browser initialized");
-    p=BaseClass.getProperties();
-    BaseClass.getLogger().info("get properties file from file directory");
-   //     logger.info("get properties file from file directory");
+        p=BaseClass.getProperties();
+        BaseClass.getLogger().info("get properties file from file directory");
         driver.get(p.getProperty("appURL"));
         driver.manage().window().maximize();
+//        driver.findElement(By.xpath("//button[text()='Visit Site']")).click();
+        Thread.sleep(3000);
     }
 
     @After

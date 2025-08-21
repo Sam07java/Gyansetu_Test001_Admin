@@ -57,7 +57,7 @@ public class addData_Excel_School {
 
         try {
             BaseClass.getLogger().info("Fetching data from Excel sheet: " + arg0 + " at row: " + introw);
-            List<Map<String, String>> instituteData = exelUtility.storeData(path, arg0);
+            List<Map<String, String>> instituteData = exelUtility.storeData001(path, arg0);
 
             String country = instituteData.get(introw).get("Country");
             BaseClass.getLogger().info("Selecting Country: " + country);
